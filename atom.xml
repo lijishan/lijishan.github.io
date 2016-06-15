@@ -63,11 +63,11 @@
   </entry>
   
   <entry>
-    <title>2016.4.6 农场管理系统更新说明</title>
+    <title>2016-04-06 农场管理系统更新说明</title>
     <link href="http://guide.realfarm.cn/release-notes-20160406/"/>
     <id>http://guide.realfarm.cn/release-notes-20160406/</id>
     <published>2016-04-10T03:38:40.000Z</published>
-    <updated>2016-06-12T07:03:12.000Z</updated>
+    <updated>2016-06-15T13:34:00.000Z</updated>
     
     <content type="html">&lt;h4 id=&quot;本次升级的主要内容&quot;&gt;&lt;a href=&quot;#本次升级的主要内容&quot; class=&quot;headerlink&quot; title=&quot;本次升级的主要内容&quot;&gt;&lt;/a&gt;本次升级的主要内容&lt;/h4&gt;&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;对后台的整体界面进行了调整，使页面更清晰简洁！&lt;/p&gt;
@@ -99,11 +99,11 @@
   </entry>
   
   <entry>
-    <title>2016年2月17日农场管理后台更新</title>
+    <title>2016-02-17 农场管理后台更新</title>
     <link href="http://guide.realfarm.cn/release-notes-20160217/"/>
     <id>http://guide.realfarm.cn/release-notes-20160217/</id>
     <published>2016-02-16T01:28:00.000Z</published>
-    <updated>2016-06-12T07:03:26.000Z</updated>
+    <updated>2016-06-15T13:34:12.000Z</updated>
     
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;各位农场主你们好，&lt;/p&gt;
@@ -461,9 +461,9 @@
       <category term="新手指引" scheme="http://guide.realfarm.cn/categories/%E6%96%B0%E6%89%8B%E6%8C%87%E5%BC%95/"/>
     
     
-      <category term="FAQ" scheme="http://guide.realfarm.cn/tags/FAQ/"/>
-    
       <category term="新手" scheme="http://guide.realfarm.cn/tags/%E6%96%B0%E6%89%8B/"/>
+    
+      <category term="FAQ" scheme="http://guide.realfarm.cn/tags/FAQ/"/>
     
   </entry>
   
@@ -516,9 +516,9 @@
       <category term="商品管理" scheme="http://guide.realfarm.cn/categories/%E5%95%86%E5%93%81%E7%AE%A1%E7%90%86/"/>
     
     
-      <category term="会员" scheme="http://guide.realfarm.cn/tags/%E4%BC%9A%E5%91%98/"/>
-    
       <category term="商品" scheme="http://guide.realfarm.cn/tags/%E5%95%86%E5%93%81/"/>
+    
+      <category term="会员" scheme="http://guide.realfarm.cn/tags/%E4%BC%9A%E5%91%98/"/>
     
   </entry>
   
@@ -1000,9 +1000,9 @@
       <category term="新手指引" scheme="http://guide.realfarm.cn/categories/%E6%96%B0%E6%89%8B%E6%8C%87%E5%BC%95/"/>
     
     
-      <category term="FAQ" scheme="http://guide.realfarm.cn/tags/FAQ/"/>
-    
       <category term="新手" scheme="http://guide.realfarm.cn/tags/%E6%96%B0%E6%89%8B/"/>
+    
+      <category term="FAQ" scheme="http://guide.realfarm.cn/tags/FAQ/"/>
     
   </entry>
   
