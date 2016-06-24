@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://guide.realfarm.cn/"/>
-  <updated>2016-06-13T03:04:53.000Z</updated>
+  <updated>2016-06-24T14:11:43.000Z</updated>
   <id>http://guide.realfarm.cn/</id>
   
   <author>
@@ -14,6 +14,52 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2016-06-24 更新：微信端支持扫码支付</title>
+    <link href="http://guide.realfarm.cn/release-notes-20160624/"/>
+    <id>http://guide.realfarm.cn/release-notes-20160624/</id>
+    <published>2016-06-24T02:00:00.000Z</published>
+    <updated>2016-06-24T14:11:43.000Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;更新要点&quot;&gt;&lt;a href=&quot;#更新要点&quot; class=&quot;headerlink&quot; title=&quot;更新要点&quot;&gt;&lt;/a&gt;更新要点&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;【微信端】支持微信扫码支付，解决在订阅号无法支付的问题；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;累积更新&quot;&gt;&lt;a href=&quot;#累积更新&quot; class=&quot;headerlink&quot; title=&quot;累积更新&quot;&gt;&lt;/a&gt;累积更新&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;【管理系统】管理系统左上角logo换成农场logo以增加识别度，而链接改成指向管理系统首页&lt;/li&gt;
+&lt;li&gt;【微信端】去掉了头部的导航条；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;微信扫码支付&quot;&gt;&lt;a href=&quot;#微信扫码支付&quot; class=&quot;headerlink&quot; title=&quot;微信扫码支付&quot;&gt;&lt;/a&gt;微信扫码支付&lt;/h2&gt;&lt;p&gt;支持微信扫码支付渠道，解决订阅号中无法完成微信支付的问题.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://static.realfarm.cn/wx-pub-qr-ios.jpg-m&quot; alt=&quot;wx-pub-qr-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;iOS设备会报告此错误（点击确定），Android设备可能无此报错，同时不能弹出微信支付的界面。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://static.realfarm.cn/wx-pub-qr-1.jpg-m&quot; alt=&quot;wx-pub-qr-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;显示二维码，手指长按二维码。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://static.realfarm.cn/wx-pub-qr-2.jpg-m&quot; alt=&quot;wx-pub-qr-2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;点击“识别图中二维码”。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://static.realfarm.cn/wx-pub-qr-3.jpg-m&quot; alt=&quot;wx-pub-qr-3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;进行正常微信支付流程，完成之后，点击二维码下方的&lt;code&gt;我已完成支付&lt;/code&gt;按钮返回。&lt;/em&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;更新要点&quot;&gt;&lt;a href=&quot;#更新要点&quot; class=&quot;headerlink&quot; title=&quot;更新要点&quot;&gt;&lt;/a&gt;更新要点&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;【微信端】支持微信扫码支付，解决在订阅号无法支付的问题；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;累积更新&quot;&gt;&lt;a
+    
+    </summary>
+    
+      <category term="更新说明" scheme="http://guide.realfarm.cn/categories/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E/"/>
+    
+    
+      <category term="更新说明" scheme="http://guide.realfarm.cn/tags/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E/"/>
+    
+      <category term="微信端" scheme="http://guide.realfarm.cn/tags/%E5%BE%AE%E4%BF%A1%E7%AB%AF/"/>
+    
+      <category term="会员端" scheme="http://guide.realfarm.cn/tags/%E4%BC%9A%E5%91%98%E7%AB%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>2016-06-13 微信端更新说明</title>
@@ -919,90 +965,6 @@
     
     
       <category term="教程" scheme="http://guide.realfarm.cn/tags/%E6%95%99%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>好农场入门</title>
-    <link href="http://guide.realfarm.cn/get-started/"/>
-    <id>http://guide.realfarm.cn/get-started/</id>
-    <published>2016-01-21T07:20:11.000Z</published>
-    <updated>2016-06-15T00:48:58.000Z</updated>
-    
-    <content type="html">&lt;h4 id=&quot;一、入驻好农场须知&quot;&gt;&lt;a href=&quot;#一、入驻好农场须知&quot; class=&quot;headerlink&quot; title=&quot;一、入驻好农场须知&quot;&gt;&lt;/a&gt;一、入驻好农场须知&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;什么是好农场，提供了什么功能？要收费吗？怎么入驻呢？&lt;/p&gt;
-&lt;p&gt;请点击阅读&amp;gt;&amp;gt;【&lt;a href=&quot;/how-to-get-started/&quot; title=&quot;好农场入驻须知&quot;&gt;好农场入驻须知&lt;/a&gt;】&amp;gt;&amp;gt;【&lt;a href=&quot;/payment-and-financial-policy/&quot; title=&quot;好农场支付方式及结算规则&quot;&gt;好农场支付方式及结算规则&lt;/a&gt;】&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;会员宅配管理系统支持哪些会员套餐类型？我的农场可以使用吗？&lt;/p&gt;
-&lt;p&gt;请点击阅读&amp;gt;&amp;gt;【&lt;a href=&quot;/introduce-to-home-delivery/&quot; title=&quot;会员宅配管理系统使用须知&quot;&gt;会员宅配管理系统使用须知&lt;/a&gt;】&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;零售功能有什么用？&lt;/p&gt;
-&lt;p&gt;请点击阅读&amp;gt;&amp;gt;【&lt;a href=&quot;/introduce-to-retail/&quot; title=&quot;好农场零售功能使用须知&quot;&gt;好农场零售功能使用须知&lt;/a&gt;】&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;二、设置农场资料及业务&quot;&gt;&lt;a href=&quot;#二、设置农场资料及业务&quot; class=&quot;headerlink&quot; title=&quot;二、设置农场资料及业务&quot;&gt;&lt;/a&gt;二、设置农场资料及业务&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;农场已经开通后台了，如何设置我的农场资料?&lt;/p&gt;
-&lt;p&gt;请点击阅读&amp;gt;&amp;gt;【&lt;a href=&quot;/setup-farm-info/&quot; title=&quot;设置农场资料&quot;&gt;设置农场资料&lt;/a&gt;】&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;如何根据我的农场业务来选择是否开通会员宅配功能？&lt;/p&gt;
-&lt;p&gt;请点击阅读&amp;gt;&amp;gt;【&lt;a href=&quot;/how-to-enable-home-delivery/&quot; title=&quot;如何开启会员宅配功能&quot;&gt;如何开启会员宅配功能&lt;/a&gt;】&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;如何设置零售功能？&lt;/p&gt;
-&lt;p&gt;请点击阅读&amp;gt;&amp;gt;【&lt;a href=&quot;/how-to-setup-retail/&quot; title=&quot;如何设置零售功能&quot;&gt;如何设置零售功能&lt;/a&gt;】&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;三、农场会员宅配&quot;&gt;&lt;a href=&quot;#三、农场会员宅配&quot; class=&quot;headerlink&quot; title=&quot;三、农场会员宅配&quot;&gt;&lt;/a&gt;三、农场会员宅配&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;首次使用会员配送的流程是什么样的？如何开始一次配送？&lt;/p&gt;
-&lt;p&gt;请点击阅读&amp;gt;&amp;gt;【&lt;a href=&quot;/get-started-delivery/&quot; title=&quot;【教程】首次会员配送流程&quot;&gt;【教程】首次会员配送流程&lt;/a&gt;】&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;如何设置会员套餐及配送日？如何新增会员？&lt;/p&gt;
-&lt;p&gt;请点击阅读&amp;gt;&amp;gt;【&lt;a href=&quot;/create-set-meal/&quot; title=&quot;新增会员套餐&quot;&gt;新增会员套餐&lt;/a&gt;】&amp;gt;&amp;gt;【&lt;a href=&quot;/create-delivery-day/&quot; title=&quot;新增会员配送日&quot;&gt;新增会员配送日&lt;/a&gt;】&amp;gt;&amp;gt;【&lt;a href=&quot;/create-customer/&quot; title=&quot;新增会员&quot;&gt;新增会员&lt;/a&gt;】&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;如何新增会员商品，设置会员可选菜单？ 可选蔬菜和附加商品有什么区别？&lt;/p&gt;
-&lt;p&gt;请点击阅读&amp;gt;&amp;gt;【&lt;a href=&quot;/create-commodity/&quot; title=&quot;新增商品&quot;&gt;新增商品&lt;/a&gt;】&amp;gt;&amp;gt;【&lt;a href=&quot;/setup-customer-commodities/&quot; title=&quot;设置会员商品&quot;&gt;设置会员商品&lt;/a&gt;】&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;如何让会员开始点菜，会员怎样使用app点菜？&lt;/p&gt;
-&lt;p&gt;请点击阅读&amp;gt;&amp;gt;【&lt;a href=&quot;/create-a-delivery-scheme/&quot; title=&quot;开始配送计划&quot;&gt;开始配送计划&lt;/a&gt;“】&amp;gt;&amp;gt;【&lt;a href=&quot;/start-ordering/&quot; title=&quot;开始点菜&quot;&gt;开始点菜&lt;/a&gt;】&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;如何打印会员销售单及相关单据？如何开始配送？&lt;/p&gt;
-&lt;p&gt;请点击阅读&amp;gt;&amp;gt;【&lt;a href=&quot;/end-ordering/&quot; title=&quot;结束点菜&quot;&gt;结束点菜&lt;/a&gt;】 【】&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;四、零售交易&quot;&gt;&lt;a href=&quot;#四、零售交易&quot; class=&quot;headerlink&quot; title=&quot;四、零售交易&quot;&gt;&lt;/a&gt;四、零售交易&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;如何发布零售商品？怎么设置运费？&lt;/p&gt;
-&lt;p&gt;请点击阅读&amp;gt;&amp;gt;【设置零售商品】&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;如何管理零售订单？订单怎么发货？&lt;/p&gt;
-&lt;p&gt;请点击阅读&amp;gt;&amp;gt;【零售订单管理】&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;消费者要求退款怎么处理？&lt;/p&gt;
-&lt;p&gt;请点击阅读&amp;gt;&amp;gt;【零售订单退款处理】&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;五、农场收入、统计&quot;&gt;&lt;a href=&quot;#五、农场收入、统计&quot; class=&quot;headerlink&quot; title=&quot;五、农场收入、统计&quot;&gt;&lt;/a&gt;五、农场收入、统计&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;会员充值和零售订单的钱我在哪里可以看到？怎么取出来？&lt;/p&gt;
-&lt;p&gt;请点击阅读&amp;gt;&amp;gt;【&lt;a href=&quot;/how-to-withdraw/&quot; title=&quot;如何申请提现&quot;&gt;如何申请提现&lt;/a&gt;】&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;怎么统计会员配送的情况或零售销售情况？&lt;/p&gt;
-&lt;p&gt;请点击阅读&amp;gt;&amp;gt;【农场统计功能】&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;一、入驻好农场须知&quot;&gt;&lt;a href=&quot;#一、入驻好农场须知&quot; class=&quot;headerlink&quot; title=&quot;一、入驻好农场须知&quot;&gt;&lt;/a&gt;一、入驻好农场须知&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;什么是好农场，提供了什么功能？要收费吗？怎么入驻呢？&lt;/p&gt;
-&lt;p
-    
-    </summary>
-    
-      <category term="新手指引" scheme="http://guide.realfarm.cn/categories/%E6%96%B0%E6%89%8B%E6%8C%87%E5%BC%95/"/>
-    
-    
-      <category term="新手" scheme="http://guide.realfarm.cn/tags/%E6%96%B0%E6%89%8B/"/>
-    
-      <category term="FAQ" scheme="http://guide.realfarm.cn/tags/FAQ/"/>
     
   </entry>
   
