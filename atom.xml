@@ -5,11 +5,11 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://guide.realfarm.cn/"/>
-  <updated>2016-06-24T14:50:51.000Z</updated>
+  <updated>2016-06-25T01:51:11.000Z</updated>
   <id>http://guide.realfarm.cn/</id>
   
   <author>
-    <name>DevTeam</name>
+    <name>好农场团队</name>
     
   </author>
   
@@ -20,7 +20,7 @@
     <link href="http://guide.realfarm.cn/release-notes-20160624/"/>
     <id>http://guide.realfarm.cn/release-notes-20160624/</id>
     <published>2016-06-24T02:00:00.000Z</published>
-    <updated>2016-06-24T14:50:51.000Z</updated>
+    <updated>2016-06-25T01:51:11.000Z</updated>
     
     <content type="html">&lt;h2 id=&quot;更新要点&quot;&gt;&lt;a href=&quot;#更新要点&quot; class=&quot;headerlink&quot; title=&quot;更新要点&quot;&gt;&lt;/a&gt;更新要点&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;【微信端】支持微信扫码支付，解决在订阅号无法支付的问题；&lt;/li&gt;
@@ -33,12 +33,32 @@
 &lt;h2 id=&quot;微信扫码支付&quot;&gt;&lt;a href=&quot;#微信扫码支付&quot; class=&quot;headerlink&quot; title=&quot;微信扫码支付&quot;&gt;&lt;/a&gt;微信扫码支付&lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;支持微信扫码支付渠道，解决订阅号中无法完成微信支付的问题.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;http://static.realfarm.cn/wx-pub-qr-ios.jpg-w200&quot; alt=&quot;wx-pub-qr-ios&quot;&gt;&lt;br&gt;&lt;em&gt;iOS设备会报告此错误（点击确定），Android设备可能无此报错，同时不能弹出微信支付的界面。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://static.realfarm.cn/wx-pub-qr-1.jpg-w200&quot; alt=&quot;wx-pub-qr-1&quot;&gt;&lt;br&gt;&lt;em&gt;显示二维码，手指长按二维码。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://static.realfarm.cn/wx-pub-qr-2.jpg-m&quot; alt=&quot;wx-pub-qr-2&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;点击“识别图中二维码”。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://static.realfarm.cn/wx-pub-qr-3.jpg-m&quot; alt=&quot;wx-pub-qr-3&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;进行正常微信支付流程，完成之后，点击二维码下方的&lt;code&gt;我已完成支付&lt;/code&gt;按钮返回。&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;iOS&lt;/th&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;Android&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&quot;http://static.realfarm.cn/wx-pub-qr-ios.jpg-w200&quot; alt=&quot;wx-pub-qr-ios&quot;&gt;  iOS设备会报告此错误（点击确定）&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;http://static.realfarm.cn/wx-pub-qr-1.jpg-w200&quot; alt=&quot;wx-pub-qr-1&quot;&gt; Android设备可能无此报错，同时不能弹出微信支付的界面。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&quot;http://static.realfarm.cn/wx-pub-qr-1.jpg-w200&quot; alt=&quot;wx-pub-qr-1&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;显示二维码，手指长按二维码&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;http://static.realfarm.cn/wx-pub-qr-2.jpg-w200&quot; alt=&quot;wx-pub-qr-2&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;点击“识别图中二维码”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;http://static.realfarm.cn/wx-pub-qr-3.jpg-w200&quot; alt=&quot;wx-pub-qr-3&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;进行正常微信支付流程，完成之后，点击二维码下方的&lt;code&gt;我已完成支付&lt;/code&gt;按钮返回&lt;/p&gt;
+&lt;/blockquote&gt;
 </content>
     
     <summary type="html">
