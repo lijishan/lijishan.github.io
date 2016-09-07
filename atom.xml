@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://guide.realfarm.cn/"/>
-  <updated>2016-07-29T00:58:12.000Z</updated>
+  <updated>2016-09-07T07:01:22.000Z</updated>
   <id>http://guide.realfarm.cn/</id>
   
   <author>
@@ -14,6 +14,95 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2016-09-07 扫码支付上线说明</title>
+    <link href="http://guide.realfarm.cn/release-notes-20160907/"/>
+    <id>http://guide.realfarm.cn/release-notes-20160907/</id>
+    <published>2016-09-07T04:38:00.000Z</published>
+    <updated>2016-09-07T07:01:22.000Z</updated>
+    
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;好农场扫码支付隆重上线。更好的客户体验，同时给农场主带来更强的便利性。支付码可以用于好农场市集，也可以用于农场日常的收款。推荐各位农场主使用。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;二维码获取&quot;&gt;&lt;a href=&quot;#二维码获取&quot; class=&quot;headerlink&quot; title=&quot;二维码获取&quot;&gt;&lt;/a&gt;二维码获取&lt;/h4&gt;&lt;p&gt;农场主登录&lt;a href=&quot;https://www.realfarm.cn/farm/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;好农场后台&lt;/a&gt;后，可以在这里找到：［农农场］／［农场资料］／［&lt;a href=&quot;https://www.realfarm.cn/farm/index.php/Home/Index/info&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;基本资料&lt;/a&gt;］，如果需要打印，可以点击二维码打开大分辨率的版本。&lt;/p&gt;
+&lt;h4 id=&quot;支付流程&quot;&gt;&lt;a href=&quot;#支付流程&quot; class=&quot;headerlink&quot; title=&quot;支付流程&quot;&gt;&lt;/a&gt;支付流程&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;在微信会话页面中，点击［扫一扫］&lt;br&gt; &lt;img src=&quot;http://static.realfarm.cn/wx-invoke-qr-scaner.png-m&quot; alt=&quot;&quot;&gt;&lt;/li&gt;
+&lt;li&gt;扫描二维码&lt;br&gt; &lt;img src=&quot;http://static.realfarm.cn/scan-the-qr-code-to-pay.jpg-m&quot; alt=&quot;&quot;&gt;&lt;/li&gt;
+&lt;li&gt;输入金额&lt;br&gt; &lt;img src=&quot;http://static.realfarm.cn/qrpay-input-money.jpg-m&quot; alt=&quot;&quot;&gt;&lt;/li&gt;
+&lt;li&gt;选择微信支付&lt;br&gt; &lt;img src=&quot;http://static.realfarm.cn/qrpay-choose-payment-method.jpg-m&quot; alt=&quot;&quot;&gt;&lt;/li&gt;
+&lt;li&gt;输入支付密码&lt;br&gt; &lt;img src=&quot;http://static.realfarm.cn/qrpay-input-password.jpg-m&quot; alt=&quot;&quot;&gt;&lt;/li&gt;
+&lt;li&gt;完成！&lt;br&gt; &lt;img src=&quot;http://static.realfarm.cn/qrpay-done.jpg-m&quot; alt=&quot;&quot;&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&quot;支付确认&quot;&gt;&lt;a href=&quot;#支付确认&quot; class=&quot;headerlink&quot; title=&quot;支付确认&quot;&gt;&lt;/a&gt;支付确认&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;农场主手机短信通知&lt;/p&gt;
+&lt;p&gt; 支付成功后，农场主会收到一条到账通知，内容类似如下：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;【好农场】有肉农场有一笔新的收入，金额：300.0元，来自-线下客户-扫码&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;后台查询与提现&lt;/p&gt;
+&lt;p&gt; 在［农场］／［&lt;a href=&quot;https://www.realfarm.cn/farm/index.php/Home/Index/financial&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;收入/提现&lt;/a&gt;］栏目下，可以查看到最新的扫码支付记录。&lt;br&gt; &lt;img src=&quot;http://static.realfarm.cn/qrpay-list.jpg-m&quot; alt=&quot;&quot;&gt;&lt;br&gt; 扫码支付入账的金额同套餐购买／充值的金额一样，可以发起提现操作。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;好农场扫码支付隆重上线。更好的客户体验，同时给农场主带来更强的便利性。支付码可以用于好农场市集，也可以用于农场日常的收款。推荐各位农场主使用。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;二维码获取&quot;&gt;&lt;a href=&quot;#二维码获取&quot; cl
+    
+    </summary>
+    
+      <category term="更新说明" scheme="http://guide.realfarm.cn/categories/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E/"/>
+    
+    
+      <category term="更新说明" scheme="http://guide.realfarm.cn/tags/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E/"/>
+    
+      <category term="微信端" scheme="http://guide.realfarm.cn/tags/%E5%BE%AE%E4%BF%A1%E7%AB%AF/"/>
+    
+      <category term="会员端" scheme="http://guide.realfarm.cn/tags/%E4%BC%9A%E5%91%98%E7%AB%AF/"/>
+    
+      <category term="管理系统" scheme="http://guide.realfarm.cn/tags/%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2016-08 8月份累积更新说明</title>
+    <link href="http://guide.realfarm.cn/release-notes-201608/"/>
+    <id>http://guide.realfarm.cn/release-notes-201608/</id>
+    <published>2016-08-28T02:00:00.000Z</published>
+    <updated>2016-09-07T03:37:23.000Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;更新要点&quot;&gt;&lt;a href=&quot;#更新要点&quot; class=&quot;headerlink&quot; title=&quot;更新要点&quot;&gt;&lt;/a&gt;更新要点&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;［管理系统］修复bug：为多个配送日选择不同配送地址时默认选中最后一个地址，容易导致所有配送地址被设置为同一个地址的误操作；&lt;/li&gt;
+&lt;li&gt;［管理系统］修复bug：退款流水中余额显示不正确，为退款前的数值（旧数据暂无修复计划）；&lt;/li&gt;
+&lt;li&gt;［管理系统］修复bug：农场客服在后台进行的修改价格／补菜的操作，会被App的操作覆盖，在“结束点菜”时重新计算一遍价格，但是中间显示仍然会有不一致的情况，建议农场客服在结束点菜后做修改价格和补菜的操作；&lt;/li&gt;
+&lt;li&gt;［会员端］修复bug：修改对已下架商品自动删除的逻辑，避免后台自动删除会员已经点的蔬菜或附加商品；&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;更新要点&quot;&gt;&lt;a href=&quot;#更新要点&quot; class=&quot;headerlink&quot; title=&quot;更新要点&quot;&gt;&lt;/a&gt;更新要点&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;［管理系统］修复bug：为多个配送日选择不同配送地址时默认选中最后一个地址，容易导致所有配送地址被设置为同一个地
+    
+    </summary>
+    
+      <category term="更新说明" scheme="http://guide.realfarm.cn/categories/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E/"/>
+    
+    
+      <category term="更新说明" scheme="http://guide.realfarm.cn/tags/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E/"/>
+    
+      <category term="微信端" scheme="http://guide.realfarm.cn/tags/%E5%BE%AE%E4%BF%A1%E7%AB%AF/"/>
+    
+      <category term="会员端" scheme="http://guide.realfarm.cn/tags/%E4%BC%9A%E5%91%98%E7%AB%AF/"/>
+    
+      <category term="管理系统" scheme="http://guide.realfarm.cn/tags/%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>2016-07 更新说明</title>
@@ -602,9 +691,9 @@
       <category term="商品管理" scheme="http://guide.realfarm.cn/categories/%E5%95%86%E5%93%81%E7%AE%A1%E7%90%86/"/>
     
     
-      <category term="会员" scheme="http://guide.realfarm.cn/tags/%E4%BC%9A%E5%91%98/"/>
-    
       <category term="商品" scheme="http://guide.realfarm.cn/tags/%E5%95%86%E5%93%81/"/>
+    
+      <category term="会员" scheme="http://guide.realfarm.cn/tags/%E4%BC%9A%E5%91%98/"/>
     
   </entry>
   
@@ -863,105 +952,6 @@
       <category term="会员" scheme="http://guide.realfarm.cn/tags/%E4%BC%9A%E5%91%98/"/>
     
       <category term="宅配" scheme="http://guide.realfarm.cn/tags/%E5%AE%85%E9%85%8D/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>新增会员套餐</title>
-    <link href="http://guide.realfarm.cn/create-set-meal/"/>
-    <id>http://guide.realfarm.cn/create-set-meal/</id>
-    <published>2016-01-21T07:51:17.000Z</published>
-    <updated>2016-06-15T00:44:04.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;em&gt;会员套餐类似于会员与农场制订的一个预付款协议，会员向农场提前预支金额，农场根据该协议为会员提供不同的服务（例如不同的商品价格）&lt;/em&gt;&lt;/p&gt;
-&lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-会员-会员套餐&lt;/p&gt;
-&lt;h4 id=&quot;二、操作流程&quot;&gt;&lt;a href=&quot;#二、操作流程&quot; class=&quot;headerlink&quot; title=&quot;二、操作流程&quot;&gt;&lt;/a&gt;二、操作流程&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;设置套餐基本信息&lt;/li&gt;
-&lt;li&gt;添加套餐详情&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;三、流程介绍&quot;&gt;&lt;a href=&quot;#三、流程介绍&quot; class=&quot;headerlink&quot; title=&quot;三、流程介绍&quot;&gt;&lt;/a&gt;三、流程介绍&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;设置套餐基本信息&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;可以根据农场的实际业务选择会员每次配送时的单次配送要求，会员通过app点菜时如果未达到该要求，则会给出相应的提示。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/84250657.jpg-w619&quot; alt=&quot;设置套餐基本信息&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;添加套餐详情&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;点击“下一步”，添加套餐详细说明&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/15259533.jpg-w619&quot; alt=&quot;添加套餐详情&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;em&gt;会员套餐类似于会员与农场制订的一个预付款协议，会员向农场提前预支金额，农场根据该协议为会员提供不同的服务（例如不同的商品价格）&lt;/em&gt;&lt;/p&gt;
-&lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;
-    
-    </summary>
-    
-      <category term="会员管理" scheme="http://guide.realfarm.cn/categories/%E4%BC%9A%E5%91%98%E7%AE%A1%E7%90%86/"/>
-    
-    
-      <category term="会员" scheme="http://guide.realfarm.cn/tags/%E4%BC%9A%E5%91%98/"/>
-    
-      <category term="宅配" scheme="http://guide.realfarm.cn/tags/%E5%AE%85%E9%85%8D/"/>
-    
-      <category term="套餐" scheme="http://guide.realfarm.cn/tags/%E5%A5%97%E9%A4%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>新增会员配送日</title>
-    <link href="http://guide.realfarm.cn/create-delivery-day/"/>
-    <id>http://guide.realfarm.cn/create-delivery-day/</id>
-    <published>2016-01-21T07:51:04.000Z</published>
-    <updated>2016-06-15T00:44:39.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;em&gt;“会员配送日”是指农场为会员设置的固定配送日，例如农场每周二、周五为会员配送，则会员配送日为周二和周五。&lt;/em&gt;&lt;/p&gt;
-&lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;农场管理后台-会员-会员配送日&lt;/p&gt;
-&lt;h4 id=&quot;二、操作流程&quot;&gt;&lt;a href=&quot;#二、操作流程&quot; class=&quot;headerlink&quot; title=&quot;二、操作流程&quot;&gt;&lt;/a&gt;二、操作流程&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;新增配送日&lt;/li&gt;
-&lt;li&gt;新增配送线路&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;三、流程介绍&quot;&gt;&lt;a href=&quot;#三、流程介绍&quot; class=&quot;headerlink&quot; title=&quot;三、流程介绍&quot;&gt;&lt;/a&gt;三、流程介绍&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;新增配送日&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;农场至少应该有一个配送日，否则无法添加会员和进行配送；&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/68654615.jpg-w619&quot; alt=&quot;会员配送日&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;配送日:可以从星期一至星期日之间选择，不能重复添加；&lt;/p&gt;
-&lt;p&gt;预计点菜开始时间：指农场预计在配送日的前几天几点开放点菜（此处的时间仅供会员在app上参考，真正开始点菜需要农场执行“开始点菜”操作）&lt;/p&gt;
-&lt;p&gt;预计点菜结束时间：同上&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/78532404.jpg-w619&quot; alt=&quot;新增配送日&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;新增配送线路&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;配送线路是指该配送日一共分几条线配送，每条线路分别采用什么配送方式配送，一个配送日至少需要添加一条线路。&lt;/p&gt;
-&lt;font color=&quot;#0099ff&quot;&gt;配送方式有以下三种可选：&lt;/font&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;自有物流：即农场自已有司机负责配送，首次添加时需“新增司机”&lt;/p&gt;
-&lt;p&gt;好农场合作物流：与好农场后台进行了物流接口对接的物流公司&lt;/p&gt;
-&lt;p&gt;第三方物流：即申通、圆通等快递公司，一条线路只能对应一个快递公司&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-20/36437149.jpg-w415&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;em&gt;“会员配送日”是指农场为会员设置的固定配送日，例如农场每周二、周五为会员配送，则会员配送日为周二和周五。&lt;/em&gt;&lt;/p&gt;
-&lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a
-    
-    </summary>
-    
-      <category term="会员管理" scheme="http://guide.realfarm.cn/categories/%E4%BC%9A%E5%91%98%E7%AE%A1%E7%90%86/"/>
-    
-    
-      <category term="会员" scheme="http://guide.realfarm.cn/tags/%E4%BC%9A%E5%91%98/"/>
-    
-      <category term="宅配" scheme="http://guide.realfarm.cn/tags/%E5%AE%85%E9%85%8D/"/>
-    
-      <category term="配送" scheme="http://guide.realfarm.cn/tags/%E9%85%8D%E9%80%81/"/>
     
   </entry>
   
