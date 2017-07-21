@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://guide.realfarm.cn/"/>
-  <updated>2017-07-21T04:00:57.000Z</updated>
+  <updated>2017-07-21T05:41:13.000Z</updated>
   <id>http://guide.realfarm.cn/</id>
   
   <author>
@@ -16,18 +16,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>fee announcement</title>
+    <title>【重要通知】关于手续费收取的通知</title>
     <link href="http://guide.realfarm.cn/fee-announcement/"/>
     <id>http://guide.realfarm.cn/fee-announcement/</id>
-    <published>2017-07-21T04:00:57.000Z</published>
-    <updated>2017-07-21T04:00:57.000Z</updated>
+    <published>2017-07-21T07:22:13.000Z</published>
+    <updated>2017-07-21T05:41:13.000Z</updated>
     
-    <content type="html"></content>
+    <content type="html">&lt;p&gt;好农场计划从2017年7月24日起对通过好农场app进行充值的资金，以及零售的资金，收取1%的手续费，主要是弥补支付宝、微信对好农场收取的资金通道成本，望各位农场主理解和支持。&lt;/p&gt;
+</content>
     
     <summary type="html">
     
+      &lt;p&gt;好农场计划从2017年7月24日起对通过好农场app进行充值的资金，以及零售的资金，收取1%的手续费，主要是弥补支付宝、微信对好农场收取的资金通道成本，望各位农场主理解和支持。&lt;/p&gt;
+
+    
     </summary>
     
+      <category term="新手指引" scheme="http://guide.realfarm.cn/categories/%E6%96%B0%E6%89%8B%E6%8C%87%E5%BC%95/"/>
+    
+    
+      <category term="FAQ" scheme="http://guide.realfarm.cn/tags/FAQ/"/>
     
   </entry>
   
