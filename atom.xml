@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://guide.realfarm.cn/"/>
-  <updated>2016-09-07T07:01:22.000Z</updated>
+  <updated>2017-07-21T04:00:57.000Z</updated>
   <id>http://guide.realfarm.cn/</id>
   
   <author>
@@ -14,6 +14,57 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>fee announcement</title>
+    <link href="http://guide.realfarm.cn/fee-announcement/"/>
+    <id>http://guide.realfarm.cn/fee-announcement/</id>
+    <published>2017-07-21T04:00:57.000Z</published>
+    <updated>2017-07-21T04:00:57.000Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2016-09 9月份累积更新说明</title>
+    <link href="http://guide.realfarm.cn/release-notes-201609/"/>
+    <id>http://guide.realfarm.cn/release-notes-201609/</id>
+    <published>2016-09-28T02:00:00.000Z</published>
+    <updated>2016-09-23T04:26:24.000Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;更新要点&quot;&gt;&lt;a href=&quot;#更新要点&quot; class=&quot;headerlink&quot; title=&quot;更新要点&quot;&gt;&lt;/a&gt;更新要点&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;［管理系统］退款操作增加了与订单的关联；&lt;/li&gt;
+&lt;li&gt;［管理系统］订单详情页显示与订单相关的资金流水，客服一目了然；&lt;/li&gt;
+&lt;li&gt;［管理系统］修复微信在线套餐购买不成功的问题；&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;更新要点&quot;&gt;&lt;a href=&quot;#更新要点&quot; class=&quot;headerlink&quot; title=&quot;更新要点&quot;&gt;&lt;/a&gt;更新要点&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;［管理系统］退款操作增加了与订单的关联；&lt;/li&gt;
+&lt;li&gt;［管理系统］订单详情页显示与订单相关的资金流水，客服
+    
+    </summary>
+    
+      <category term="更新说明" scheme="http://guide.realfarm.cn/categories/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E/"/>
+    
+    
+      <category term="更新说明" scheme="http://guide.realfarm.cn/tags/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E/"/>
+    
+      <category term="微信端" scheme="http://guide.realfarm.cn/tags/%E5%BE%AE%E4%BF%A1%E7%AB%AF/"/>
+    
+      <category term="会员端" scheme="http://guide.realfarm.cn/tags/%E4%BC%9A%E5%91%98%E7%AB%AF/"/>
+    
+      <category term="管理系统" scheme="http://guide.realfarm.cn/tags/%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>2016-09-07 扫码支付上线说明</title>
@@ -691,9 +742,9 @@
       <category term="商品管理" scheme="http://guide.realfarm.cn/categories/%E5%95%86%E5%93%81%E7%AE%A1%E7%90%86/"/>
     
     
-      <category term="商品" scheme="http://guide.realfarm.cn/tags/%E5%95%86%E5%93%81/"/>
-    
       <category term="会员" scheme="http://guide.realfarm.cn/tags/%E4%BC%9A%E5%91%98/"/>
+    
+      <category term="商品" scheme="http://guide.realfarm.cn/tags/%E5%95%86%E5%93%81/"/>
     
   </entry>
   
@@ -847,106 +898,6 @@
     </summary>
     
       <category term="农场设置" scheme="http://guide.realfarm.cn/categories/%E5%86%9C%E5%9C%BA%E8%AE%BE%E7%BD%AE/"/>
-    
-    
-      <category term="会员" scheme="http://guide.realfarm.cn/tags/%E4%BC%9A%E5%91%98/"/>
-    
-      <category term="宅配" scheme="http://guide.realfarm.cn/tags/%E5%AE%85%E9%85%8D/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>设置农场资料</title>
-    <link href="http://guide.realfarm.cn/setup-farm-info/"/>
-    <id>http://guide.realfarm.cn/setup-farm-info/</id>
-    <published>2016-01-21T07:52:41.000Z</published>
-    <updated>2016-06-12T07:16:38.000Z</updated>
-    
-    <content type="html">&lt;h4 id=&quot;一、功能路径&quot;&gt;&lt;a href=&quot;#一、功能路径&quot; class=&quot;headerlink&quot; title=&quot;一、功能路径&quot;&gt;&lt;/a&gt;一、功能路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-农场-农场资料&lt;/p&gt;
-&lt;h4 id=&quot;二、操作流程&quot;&gt;&lt;a href=&quot;#二、操作流程&quot; class=&quot;headerlink&quot; title=&quot;二、操作流程&quot;&gt;&lt;/a&gt;二、操作流程&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;设置农场基本资料&lt;/li&gt;
-&lt;li&gt;添加农场详细介绍&lt;/li&gt;
-&lt;li&gt;上传农场相册&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;三、流程介绍&quot;&gt;&lt;a href=&quot;#三、流程介绍&quot; class=&quot;headerlink&quot; title=&quot;三、流程介绍&quot;&gt;&lt;/a&gt;三、流程介绍&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;设置农场基本资料&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;blockquote&gt;
-&lt;p&gt;农场名称、登录账号、农场地址需要通过联系好农场客服人员修改&lt;/p&gt;
-&lt;p&gt;主营产品输入框中不能超过15个字&lt;/p&gt;
-&lt;p&gt;农场logo和背景图不能超过1M&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/31852340.jpg-w619&quot; alt=&quot;设置农场基本资料&quot;&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;添加农场详细介绍&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;从“基本资料”切换到“农场介绍”标签后进行编辑&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/45796067.jpg-w619&quot; alt=&quot;添加农场详细介绍&quot;&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;上传农场相册&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;从“农场介绍”切换到”农场相册标签进行编辑&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;点击上传新图片即可上传&lt;/p&gt;
-&lt;p&gt;最多上传20张图片，支付jpg,jpeg格式&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/18545283.jpg-w619&quot; alt=&quot;上传农场相册&quot;&gt;&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;一、功能路径&quot;&gt;&lt;a href=&quot;#一、功能路径&quot; class=&quot;headerlink&quot; title=&quot;一、功能路径&quot;&gt;&lt;/a&gt;一、功能路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-农场-农场资料&lt;/p&gt;
-&lt;h4 id=&quot;二、操作流程&quot;&gt;&lt;a href=&quot;#二、操作流程&quot; 
-    
-    </summary>
-    
-      <category term="农场设置" scheme="http://guide.realfarm.cn/categories/%E5%86%9C%E5%9C%BA%E8%AE%BE%E7%BD%AE/"/>
-    
-    
-      <category term="教程" scheme="http://guide.realfarm.cn/tags/%E6%95%99%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>新增会员</title>
-    <link href="http://guide.realfarm.cn/create-customer/"/>
-    <id>http://guide.realfarm.cn/create-customer/</id>
-    <published>2016-01-21T07:51:27.000Z</published>
-    <updated>2016-06-15T00:43:31.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;em&gt;新增会员有两种途径：一种是新增单个会员，一种是批量导入会员。&lt;/em&gt;&lt;/p&gt;
-&lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-会员-配送会员&lt;/p&gt;
-&lt;h4 id=&quot;二、新增单个会员&quot;&gt;&lt;a href=&quot;#二、新增单个会员&quot; class=&quot;headerlink&quot; title=&quot;二、新增单个会员&quot;&gt;&lt;/a&gt;二、新增单个会员&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;在左上角点“新增会员”按钮&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/54005800.jpg-w619&quot; alt=&quot;新增会员&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;添加会员基本信息&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;可透支额度（元）：指套餐余额消费完后还可以透支消费的金额&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/66904503.jpg-w619&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;设置套餐信息&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;单次配送要求：随套餐的要求而变化&lt;/p&gt;
-&lt;p&gt;配送日：一个会员至少对应一个配送日和一条配送线路，可设置多个配送日。&lt;/p&gt;
-&lt;p&gt;套餐附加商品：指每次点菜前，如果该附加商品有库存，系统会自动把该商品分配到会员的购物车里。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/86894011.jpg-w619&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;三、批量导入会员&quot;&gt;&lt;a href=&quot;#三、批量导入会员&quot; class=&quot;headerlink&quot; title=&quot;三、批量导入会员&quot;&gt;&lt;/a&gt;三、批量导入会员&lt;/h4&gt;&lt;p&gt;在“配送会员”页左上角点“导入”，按导入指引和模板提醒导入即可&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/93392312.jpg-w619&quot; alt=&quot;导入会员&quot;&gt;&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;em&gt;新增会员有两种途径：一种是新增单个会员，一种是批量导入会员。&lt;/em&gt;&lt;/p&gt;
-&lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台
-    
-    </summary>
-    
-      <category term="会员管理" scheme="http://guide.realfarm.cn/categories/%E4%BC%9A%E5%91%98%E7%AE%A1%E7%90%86/"/>
     
     
       <category term="会员" scheme="http://guide.realfarm.cn/tags/%E4%BC%9A%E5%91%98/"/>
