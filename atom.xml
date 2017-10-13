@@ -2,10 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>好农场帮助中心</title>
   
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://guide.realfarm.cn/"/>
-  <updated>2017-07-21T05:42:40.000Z</updated>
+  <updated>2017-10-13T12:12:55.000Z</updated>
   <id>http://guide.realfarm.cn/</id>
   
   <author>
@@ -16,19 +17,46 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>【重要通知】关于好农场App暂停服务的通知</title>
+    <link href="http://guide.realfarm.cn/pause-app/"/>
+    <id>http://guide.realfarm.cn/pause-app/</id>
+    <published>2017-10-13T12:22:13.000Z</published>
+    <updated>2017-10-13T12:12:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>各位农场主，由于业务模式调整需要，好农场将对App进行重大升级，并于10月21日暂停App的点菜、充值等功能。请及时引导会员使用微信端进行相关操作，带来不便敬请谅解！微信端点菜功能的启用请参考（<a href="https://mp.weixin.qq.com/s?src=3&amp;timestamp=1507896036&amp;ver=1&amp;signature=IWbKASYh1bhbdr31twZJ4N9afS0MOwUYxzXYZUNTy-vkVNWjb3nGMi5AAhfP6ZKdFFhqQQqOaCm1Y-8fSiHji-fVH7nWLUmIy*GnHZ45*pO97i1J7eWs18GYjQ1KpTQ4ZuYlO2WO99Lr5MlVTBQnGxKMnxGEQIVWaAIZzQqUjAo=" target="_blank" rel="external">链接</a>）。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;各位农场主，由于业务模式调整需要，好农场将对App进行重大升级，并于10月21日暂停App的点菜、充值等功能。请及时引导会员使用微信端进行相关操作，带来不便敬请谅解！微信端点菜功能的启用请参考（&lt;a href=&quot;https://mp.weixin.qq.com/s?src=
+      
+    
+    </summary>
+    
+      <category term="更新说明" scheme="http://guide.realfarm.cn/categories/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E/"/>
+    
+    
+      <category term="FAQ" scheme="http://guide.realfarm.cn/tags/FAQ/"/>
+    
+  </entry>
+  
+  <entry>
     <title>【重要通知】关于手续费收取的通知</title>
     <link href="http://guide.realfarm.cn/fee-announcement/"/>
     <id>http://guide.realfarm.cn/fee-announcement/</id>
     <published>2017-07-21T07:22:13.000Z</published>
     <updated>2017-07-21T05:42:40.000Z</updated>
     
-    <content type="html">&lt;p&gt;好农场计划从2017年7月24日起对通过好农场app进行充值的资金，以及零售的资金，收取1%的手续费，主要是弥补支付宝、微信对好农场收取的资金通道成本，望各位农场主理解和支持。&lt;/p&gt;
-</content>
+    <content type="html"><![CDATA[<p>好农场计划从2017年7月24日起对通过好农场app进行充值的资金，以及零售的资金，收取1%的手续费，主要是弥补支付宝、微信对好农场收取的资金通道成本，望各位农场主理解和支持。</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;好农场计划从2017年7月24日起对通过好农场app进行充值的资金，以及零售的资金，收取1%的手续费，主要是弥补支付宝、微信对好农场收取的资金通道成本，望各位农场主理解和支持。&lt;/p&gt;
+      
+      
+        &lt;p&gt;好农场计划从2017年7月24日起对通过好农场app进行充值的资金，以及零售的资金，收取1%的手续费，主要是弥补支付宝、微信对好农场收取的资金通道成本，望各位农场主理解和支持。&lt;/p&gt;
 
+      
     
     </summary>
     
@@ -46,18 +74,16 @@
     <published>2016-09-28T02:00:00.000Z</published>
     <updated>2016-09-23T04:26:24.000Z</updated>
     
-    <content type="html">&lt;h2 id=&quot;更新要点&quot;&gt;&lt;a href=&quot;#更新要点&quot; class=&quot;headerlink&quot; title=&quot;更新要点&quot;&gt;&lt;/a&gt;更新要点&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;［管理系统］退款操作增加了与订单的关联；&lt;/li&gt;
-&lt;li&gt;［管理系统］订单详情页显示与订单相关的资金流水，客服一目了然；&lt;/li&gt;
-&lt;li&gt;［管理系统］修复微信在线套餐购买不成功的问题；&lt;/li&gt;
-&lt;/ul&gt;
-</content>
+    <content type="html"><![CDATA[<h2 id="更新要点"><a href="#更新要点" class="headerlink" title="更新要点"></a>更新要点</h2><ul><li>［管理系统］退款操作增加了与订单的关联；</li><li>［管理系统］订单详情页显示与订单相关的资金流水，客服一目了然；</li><li>［管理系统］修复微信在线套餐购买不成功的问题；</li></ul>]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;更新要点&quot;&gt;&lt;a href=&quot;#更新要点&quot; class=&quot;headerlink&quot; title=&quot;更新要点&quot;&gt;&lt;/a&gt;更新要点&lt;/h2&gt;&lt;ul&gt;
+      
+      
+        &lt;h2 id=&quot;更新要点&quot;&gt;&lt;a href=&quot;#更新要点&quot; class=&quot;headerlink&quot; title=&quot;更新要点&quot;&gt;&lt;/a&gt;更新要点&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;［管理系统］退款操作增加了与订单的关联；&lt;/li&gt;
 &lt;li&gt;［管理系统］订单详情页显示与订单相关的资金流水，客服
+      
     
     </summary>
     
@@ -81,37 +107,17 @@
     <published>2016-09-07T04:38:00.000Z</published>
     <updated>2016-09-07T07:01:22.000Z</updated>
     
-    <content type="html">&lt;blockquote&gt;
-&lt;p&gt;好农场扫码支付隆重上线。更好的客户体验，同时给农场主带来更强的便利性。支付码可以用于好农场市集，也可以用于农场日常的收款。推荐各位农场主使用。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&quot;二维码获取&quot;&gt;&lt;a href=&quot;#二维码获取&quot; class=&quot;headerlink&quot; title=&quot;二维码获取&quot;&gt;&lt;/a&gt;二维码获取&lt;/h4&gt;&lt;p&gt;农场主登录&lt;a href=&quot;https://www.realfarm.cn/farm/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;好农场后台&lt;/a&gt;后，可以在这里找到：［农农场］／［农场资料］／［&lt;a href=&quot;https://www.realfarm.cn/farm/index.php/Home/Index/info&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;基本资料&lt;/a&gt;］，如果需要打印，可以点击二维码打开大分辨率的版本。&lt;/p&gt;
-&lt;h4 id=&quot;支付流程&quot;&gt;&lt;a href=&quot;#支付流程&quot; class=&quot;headerlink&quot; title=&quot;支付流程&quot;&gt;&lt;/a&gt;支付流程&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;在微信会话页面中，点击［扫一扫］&lt;br&gt; &lt;img src=&quot;http://static.realfarm.cn/wx-invoke-qr-scaner.png-m&quot; alt=&quot;&quot;&gt;&lt;/li&gt;
-&lt;li&gt;扫描二维码&lt;br&gt; &lt;img src=&quot;http://static.realfarm.cn/scan-the-qr-code-to-pay.jpg-m&quot; alt=&quot;&quot;&gt;&lt;/li&gt;
-&lt;li&gt;输入金额&lt;br&gt; &lt;img src=&quot;http://static.realfarm.cn/qrpay-input-money.jpg-m&quot; alt=&quot;&quot;&gt;&lt;/li&gt;
-&lt;li&gt;选择微信支付&lt;br&gt; &lt;img src=&quot;http://static.realfarm.cn/qrpay-choose-payment-method.jpg-m&quot; alt=&quot;&quot;&gt;&lt;/li&gt;
-&lt;li&gt;输入支付密码&lt;br&gt; &lt;img src=&quot;http://static.realfarm.cn/qrpay-input-password.jpg-m&quot; alt=&quot;&quot;&gt;&lt;/li&gt;
-&lt;li&gt;完成！&lt;br&gt; &lt;img src=&quot;http://static.realfarm.cn/qrpay-done.jpg-m&quot; alt=&quot;&quot;&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;支付确认&quot;&gt;&lt;a href=&quot;#支付确认&quot; class=&quot;headerlink&quot; title=&quot;支付确认&quot;&gt;&lt;/a&gt;支付确认&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;农场主手机短信通知&lt;/p&gt;
-&lt;p&gt; 支付成功后，农场主会收到一条到账通知，内容类似如下：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;【好农场】有肉农场有一笔新的收入，金额：300.0元，来自-线下客户-扫码&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;后台查询与提现&lt;/p&gt;
-&lt;p&gt; 在［农场］／［&lt;a href=&quot;https://www.realfarm.cn/farm/index.php/Home/Index/financial&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;收入/提现&lt;/a&gt;］栏目下，可以查看到最新的扫码支付记录。&lt;br&gt; &lt;img src=&quot;http://static.realfarm.cn/qrpay-list.jpg-m&quot; alt=&quot;&quot;&gt;&lt;br&gt; 扫码支付入账的金额同套餐购买／充值的金额一样，可以发起提现操作。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</content>
+    <content type="html"><![CDATA[<blockquote><p>好农场扫码支付隆重上线。更好的客户体验，同时给农场主带来更强的便利性。支付码可以用于好农场市集，也可以用于农场日常的收款。推荐各位农场主使用。</p></blockquote><h4 id="二维码获取"><a href="#二维码获取" class="headerlink" title="二维码获取"></a>二维码获取</h4><p>农场主登录<a href="https://www.realfarm.cn/farm/" target="_blank" rel="external">好农场后台</a>后，可以在这里找到：［农农场］／［农场资料］／［<a href="https://www.realfarm.cn/farm/index.php/Home/Index/info" target="_blank" rel="external">基本资料</a>］，如果需要打印，可以点击二维码打开大分辨率的版本。</p><h4 id="支付流程"><a href="#支付流程" class="headerlink" title="支付流程"></a>支付流程</h4><ol><li>在微信会话页面中，点击［扫一扫］<br> <img src="http://static.realfarm.cn/wx-invoke-qr-scaner.png-m" alt=""></li><li>扫描二维码<br> <img src="http://static.realfarm.cn/scan-the-qr-code-to-pay.jpg-m" alt=""></li><li>输入金额<br> <img src="http://static.realfarm.cn/qrpay-input-money.jpg-m" alt=""></li><li>选择微信支付<br> <img src="http://static.realfarm.cn/qrpay-choose-payment-method.jpg-m" alt=""></li><li>输入支付密码<br> <img src="http://static.realfarm.cn/qrpay-input-password.jpg-m" alt=""></li><li>完成！<br> <img src="http://static.realfarm.cn/qrpay-done.jpg-m" alt=""></li></ol><h4 id="支付确认"><a href="#支付确认" class="headerlink" title="支付确认"></a>支付确认</h4><ol><li><p>农场主手机短信通知</p><p> 支付成功后，农场主会收到一条到账通知，内容类似如下：</p><blockquote><p>【好农场】有肉农场有一笔新的收入，金额：300.0元，来自-线下客户-扫码</p></blockquote></li><li><p>后台查询与提现</p><p> 在［农场］／［<a href="https://www.realfarm.cn/farm/index.php/Home/Index/financial" target="_blank" rel="external">收入/提现</a>］栏目下，可以查看到最新的扫码支付记录。<br> <img src="http://static.realfarm.cn/qrpay-list.jpg-m" alt=""><br> 扫码支付入账的金额同套餐购买／充值的金额一样，可以发起提现操作。</p></li></ol>]]></content>
     
     <summary type="html">
     
-      &lt;blockquote&gt;
+      
+      
+        &lt;blockquote&gt;
 &lt;p&gt;好农场扫码支付隆重上线。更好的客户体验，同时给农场主带来更强的便利性。支付码可以用于好农场市集，也可以用于农场日常的收款。推荐各位农场主使用。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h4 id=&quot;二维码获取&quot;&gt;&lt;a href=&quot;#二维码获取&quot; cl
+      
     
     </summary>
     
@@ -135,18 +141,15 @@
     <published>2016-08-28T02:00:00.000Z</published>
     <updated>2016-09-07T03:37:23.000Z</updated>
     
-    <content type="html">&lt;h2 id=&quot;更新要点&quot;&gt;&lt;a href=&quot;#更新要点&quot; class=&quot;headerlink&quot; title=&quot;更新要点&quot;&gt;&lt;/a&gt;更新要点&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;［管理系统］修复bug：为多个配送日选择不同配送地址时默认选中最后一个地址，容易导致所有配送地址被设置为同一个地址的误操作；&lt;/li&gt;
-&lt;li&gt;［管理系统］修复bug：退款流水中余额显示不正确，为退款前的数值（旧数据暂无修复计划）；&lt;/li&gt;
-&lt;li&gt;［管理系统］修复bug：农场客服在后台进行的修改价格／补菜的操作，会被App的操作覆盖，在“结束点菜”时重新计算一遍价格，但是中间显示仍然会有不一致的情况，建议农场客服在结束点菜后做修改价格和补菜的操作；&lt;/li&gt;
-&lt;li&gt;［会员端］修复bug：修改对已下架商品自动删除的逻辑，避免后台自动删除会员已经点的蔬菜或附加商品；&lt;/li&gt;
-&lt;/ul&gt;
-</content>
+    <content type="html"><![CDATA[<h2 id="更新要点"><a href="#更新要点" class="headerlink" title="更新要点"></a>更新要点</h2><ul><li>［管理系统］修复bug：为多个配送日选择不同配送地址时默认选中最后一个地址，容易导致所有配送地址被设置为同一个地址的误操作；</li><li>［管理系统］修复bug：退款流水中余额显示不正确，为退款前的数值（旧数据暂无修复计划）；</li><li>［管理系统］修复bug：农场客服在后台进行的修改价格／补菜的操作，会被App的操作覆盖，在“结束点菜”时重新计算一遍价格，但是中间显示仍然会有不一致的情况，建议农场客服在结束点菜后做修改价格和补菜的操作；</li><li>［会员端］修复bug：修改对已下架商品自动删除的逻辑，避免后台自动删除会员已经点的蔬菜或附加商品；</li></ul>]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;更新要点&quot;&gt;&lt;a href=&quot;#更新要点&quot; class=&quot;headerlink&quot; title=&quot;更新要点&quot;&gt;&lt;/a&gt;更新要点&lt;/h2&gt;&lt;ul&gt;
+      
+      
+        &lt;h2 id=&quot;更新要点&quot;&gt;&lt;a href=&quot;#更新要点&quot; class=&quot;headerlink&quot; title=&quot;更新要点&quot;&gt;&lt;/a&gt;更新要点&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;［管理系统］修复bug：为多个配送日选择不同配送地址时默认选中最后一个地址，容易导致所有配送地址被设置为同一个地
+      
     
     </summary>
     
@@ -170,23 +173,16 @@
     <published>2016-07-28T02:00:00.000Z</published>
     <updated>2016-07-29T00:58:12.000Z</updated>
     
-    <content type="html">&lt;h2 id=&quot;更新要点&quot;&gt;&lt;a href=&quot;#更新要点&quot; class=&quot;headerlink&quot; title=&quot;更新要点&quot;&gt;&lt;/a&gt;更新要点&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;［管理系统］修复bug：修改配送日信息会导致配送组信息不完整，进而导致会员导入时无法匹配“配送分组；&lt;/li&gt;
-&lt;li&gt;［管理系统］优化：在调整宅配菜单时，显示“标称规格”，方便客服检查重量与规范是否匹配；&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;http://static.realfarm.cn/release-display-standard.jpg-m&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;［管理系统］优化：在备货单和配菜单上打印日期；&lt;/li&gt;
-&lt;li&gt;［管理系统］优化判断逻辑避免扣款部分成功的问题（比如：流水记录成功，但是扣款失败）；&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;累积更新&quot;&gt;&lt;a href=&quot;#累积更新&quot; class=&quot;headerlink&quot; title=&quot;累积更新&quot;&gt;&lt;/a&gt;累积更新&lt;/h2&gt;&lt;hr&gt;
-</content>
+    <content type="html"><![CDATA[<h2 id="更新要点"><a href="#更新要点" class="headerlink" title="更新要点"></a>更新要点</h2><ul><li>［管理系统］修复bug：修改配送日信息会导致配送组信息不完整，进而导致会员导入时无法匹配“配送分组；</li><li>［管理系统］优化：在调整宅配菜单时，显示“标称规格”，方便客服检查重量与规范是否匹配；</li></ul><p><img src="http://static.realfarm.cn/release-display-standard.jpg-m" alt=""></p><ul><li>［管理系统］优化：在备货单和配菜单上打印日期；</li><li>［管理系统］优化判断逻辑避免扣款部分成功的问题（比如：流水记录成功，但是扣款失败）；</li></ul><h2 id="累积更新"><a href="#累积更新" class="headerlink" title="累积更新"></a>累积更新</h2><hr>]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;更新要点&quot;&gt;&lt;a href=&quot;#更新要点&quot; class=&quot;headerlink&quot; title=&quot;更新要点&quot;&gt;&lt;/a&gt;更新要点&lt;/h2&gt;&lt;ul&gt;
+      
+      
+        &lt;h2 id=&quot;更新要点&quot;&gt;&lt;a href=&quot;#更新要点&quot; class=&quot;headerlink&quot; title=&quot;更新要点&quot;&gt;&lt;/a&gt;更新要点&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;［管理系统］修复bug：修改配送日信息会导致配送组信息不完整，进而导致会员导入时无法匹配“配送分组；&lt;/li&gt;
 
+      
     
     </summary>
     
@@ -210,31 +206,17 @@
     <published>2016-06-24T02:00:00.000Z</published>
     <updated>2016-07-28T11:16:08.000Z</updated>
     
-    <content type="html">&lt;h2 id=&quot;更新要点&quot;&gt;&lt;a href=&quot;#更新要点&quot; class=&quot;headerlink&quot; title=&quot;更新要点&quot;&gt;&lt;/a&gt;更新要点&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;【微信端】支持微信扫码支付，解决在订阅号无法支付的问题；&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;累积更新&quot;&gt;&lt;a href=&quot;#累积更新&quot; class=&quot;headerlink&quot; title=&quot;累积更新&quot;&gt;&lt;/a&gt;累积更新&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;【管理系统】管理系统左上角logo换成农场logo以增加识别度，而链接改成指向管理系统首页&lt;/li&gt;
-&lt;li&gt;【微信端】去掉了头部的导航条；&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&quot;微信扫码支付&quot;&gt;&lt;a href=&quot;#微信扫码支付&quot; class=&quot;headerlink&quot; title=&quot;微信扫码支付&quot;&gt;&lt;/a&gt;微信扫码支付&lt;/h2&gt;&lt;p&gt;支持微信扫码支付渠道，解决订阅号中无法完成微信支付的问题.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://static.realfarm.cn/wx-pub-qr-ios.jpg-m&quot; alt=&quot;wx-pub-qr-1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;iOS设备会报告此错误（点击确定），Android设备可能无此报错，同时不能弹出微信支付的界面。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://static.realfarm.cn/wx-pub-qr-1.jpg-m&quot; alt=&quot;wx-pub-qr-1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;显示二维码，手指长按二维码。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://static.realfarm.cn/wx-pub-qr-2.jpg-m&quot; alt=&quot;wx-pub-qr-2&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;点击“识别图中二维码”。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://static.realfarm.cn/wx-pub-qr-3.jpg-m&quot; alt=&quot;wx-pub-qr-3&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;进行正常微信支付流程，完成之后，点击二维码下方的&lt;code&gt;我已完成支付&lt;/code&gt;按钮返回。&lt;/em&gt;&lt;/p&gt;
-</content>
+    <content type="html"><![CDATA[<h2 id="更新要点"><a href="#更新要点" class="headerlink" title="更新要点"></a>更新要点</h2><ul><li>【微信端】支持微信扫码支付，解决在订阅号无法支付的问题；</li></ul><h2 id="累积更新"><a href="#累积更新" class="headerlink" title="累积更新"></a>累积更新</h2><ul><li>【管理系统】管理系统左上角logo换成农场logo以增加识别度，而链接改成指向管理系统首页</li><li>【微信端】去掉了头部的导航条；</li></ul><hr><h2 id="微信扫码支付"><a href="#微信扫码支付" class="headerlink" title="微信扫码支付"></a>微信扫码支付</h2><p>支持微信扫码支付渠道，解决订阅号中无法完成微信支付的问题.</p><p><img src="http://static.realfarm.cn/wx-pub-qr-ios.jpg-m" alt="wx-pub-qr-1"></p><p><em>iOS设备会报告此错误（点击确定），Android设备可能无此报错，同时不能弹出微信支付的界面。</em></p><p><img src="http://static.realfarm.cn/wx-pub-qr-1.jpg-m" alt="wx-pub-qr-1"></p><p><em>显示二维码，手指长按二维码。</em></p><p><img src="http://static.realfarm.cn/wx-pub-qr-2.jpg-m" alt="wx-pub-qr-2"></p><p><em>点击“识别图中二维码”。</em></p><p><img src="http://static.realfarm.cn/wx-pub-qr-3.jpg-m" alt="wx-pub-qr-3"></p><p><em>进行正常微信支付流程，完成之后，点击二维码下方的<code>我已完成支付</code>按钮返回。</em></p>]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;更新要点&quot;&gt;&lt;a href=&quot;#更新要点&quot; class=&quot;headerlink&quot; title=&quot;更新要点&quot;&gt;&lt;/a&gt;更新要点&lt;/h2&gt;&lt;ul&gt;
+      
+      
+        &lt;h2 id=&quot;更新要点&quot;&gt;&lt;a href=&quot;#更新要点&quot; class=&quot;headerlink&quot; title=&quot;更新要点&quot;&gt;&lt;/a&gt;更新要点&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;【微信端】支持微信扫码支付，解决在订阅号无法支付的问题；&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;累积更新&quot;&gt;&lt;a
+      
     
     </summary>
     
@@ -256,32 +238,17 @@
     <published>2016-06-13T03:00:00.000Z</published>
     <updated>2016-06-13T03:04:53.000Z</updated>
     
-    <content type="html">&lt;h1 id=&quot;主要修改&quot;&gt;&lt;a href=&quot;#主要修改&quot; class=&quot;headerlink&quot; title=&quot;主要修改&quot;&gt;&lt;/a&gt;主要修改&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;概述：根据零售地址格式要求屏蔽不符合格式规范的地址。&lt;/li&gt;
-&lt;li&gt;影响范围：好农场微信版。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;宅配地址设计之初为人工处理，无格式上的规范要求，零售则需要根据地址的省市区信息计算运费，所以绝大部分宅配地址不符合零售的要求。为了使使用零售功能的用户有合理的体验，现将不符合格式要求的宅配地址进行屏蔽，用户不能从地址列表中选取不符合格式要求的地址。从而不会给用户提示“地址未设置省市区”这样难以理解的信息。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;细节&quot;&gt;&lt;a href=&quot;#细节&quot; class=&quot;headerlink&quot; title=&quot;细节&quot;&gt;&lt;/a&gt;细节&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;在零售的确认订单页，系统在自动选取的收货地址时加入判断，避免自动选取到不符合要求的地址；&lt;/li&gt;
-&lt;li&gt;在零售确认订单时，选择收货地址时，不符合格式要求的地址不会列出；&lt;/li&gt;
-&lt;li&gt;所有地址还是可以在 “我”-&amp;gt;“收货地址管理”中列出；&lt;/li&gt;
-&lt;li&gt;新增或修改地址时，详细地址中如果包含空格会被自动替换成 &lt;code&gt;_&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;其他修改&quot;&gt;&lt;a href=&quot;#其他修改&quot; class=&quot;headerlink&quot; title=&quot;其他修改&quot;&gt;&lt;/a&gt;其他修改&lt;/h1&gt;&lt;p&gt;同步了线上的修改。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;fix: iOS 9 系统下微信JS库加载失败；&lt;/li&gt;
-&lt;li&gt;fix: 登录/购买套餐后，个人套餐信息不能及时显示；&lt;/li&gt;
-&lt;/ul&gt;
-</content>
+    <content type="html"><![CDATA[<h1 id="主要修改"><a href="#主要修改" class="headerlink" title="主要修改"></a>主要修改</h1><ul><li>概述：根据零售地址格式要求屏蔽不符合格式规范的地址。</li><li>影响范围：好农场微信版。</li></ul><h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><blockquote><p>宅配地址设计之初为人工处理，无格式上的规范要求，零售则需要根据地址的省市区信息计算运费，所以绝大部分宅配地址不符合零售的要求。为了使使用零售功能的用户有合理的体验，现将不符合格式要求的宅配地址进行屏蔽，用户不能从地址列表中选取不符合格式要求的地址。从而不会给用户提示“地址未设置省市区”这样难以理解的信息。</p></blockquote><h2 id="细节"><a href="#细节" class="headerlink" title="细节"></a>细节</h2><ul><li>在零售的确认订单页，系统在自动选取的收货地址时加入判断，避免自动选取到不符合要求的地址；</li><li>在零售确认订单时，选择收货地址时，不符合格式要求的地址不会列出；</li><li>所有地址还是可以在 “我”-&gt;“收货地址管理”中列出；</li><li>新增或修改地址时，详细地址中如果包含空格会被自动替换成 <code>_</code></li></ul><h1 id="其他修改"><a href="#其他修改" class="headerlink" title="其他修改"></a>其他修改</h1><p>同步了线上的修改。</p><ul><li>fix: iOS 9 系统下微信JS库加载失败；</li><li>fix: 登录/购买套餐后，个人套餐信息不能及时显示；</li></ul>]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;主要修改&quot;&gt;&lt;a href=&quot;#主要修改&quot; class=&quot;headerlink&quot; title=&quot;主要修改&quot;&gt;&lt;/a&gt;主要修改&lt;/h1&gt;&lt;ul&gt;
+      
+      
+        &lt;h1 id=&quot;主要修改&quot;&gt;&lt;a href=&quot;#主要修改&quot; class=&quot;headerlink&quot; title=&quot;主要修改&quot;&gt;&lt;/a&gt;主要修改&lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;概述：根据零售地址格式要求屏蔽不符合格式规范的地址。&lt;/li&gt;
 &lt;li&gt;影响范围：好农场微信版。&lt;/li&gt;
 &lt;/
+      
     
     </summary>
     
@@ -303,23 +270,16 @@
     <published>2016-04-10T03:38:40.000Z</published>
     <updated>2016-06-15T13:34:00.000Z</updated>
     
-    <content type="html">&lt;h4 id=&quot;本次升级的主要内容&quot;&gt;&lt;a href=&quot;#本次升级的主要内容&quot; class=&quot;headerlink&quot; title=&quot;本次升级的主要内容&quot;&gt;&lt;/a&gt;本次升级的主要内容&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;对后台的整体界面进行了调整，使页面更清晰简洁！&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;增加“通知”功能，会员充值、新会员加入、新的零售订单都可以收到通知了;&lt;br&gt; &lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-4-11/66818140.jpg-w619&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;“农场”导航下新增了“整体概况”页，并将“新手指导”进行了完善。&lt;br&gt; &lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-4-11/30074466.jpg-w619&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;增加在线客服功能。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</content>
+    <content type="html"><![CDATA[<h4 id="本次升级的主要内容"><a href="#本次升级的主要内容" class="headerlink" title="本次升级的主要内容"></a>本次升级的主要内容</h4><ol><li><p>对后台的整体界面进行了调整，使页面更清晰简洁！</p></li><li><p>增加“通知”功能，会员充值、新会员加入、新的零售订单都可以收到通知了;<br> <img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-4-11/66818140.jpg-w619" alt=""></p></li><li><p>“农场”导航下新增了“整体概况”页，并将“新手指导”进行了完善。<br> <img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-4-11/30074466.jpg-w619" alt=""></p></li><li><p>增加在线客服功能。</p></li></ol>]]></content>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;本次升级的主要内容&quot;&gt;&lt;a href=&quot;#本次升级的主要内容&quot; class=&quot;headerlink&quot; title=&quot;本次升级的主要内容&quot;&gt;&lt;/a&gt;本次升级的主要内容&lt;/h4&gt;&lt;ol&gt;
+      
+      
+        &lt;h4 id=&quot;本次升级的主要内容&quot;&gt;&lt;a href=&quot;#本次升级的主要内容&quot; class=&quot;headerlink&quot; title=&quot;本次升级的主要内容&quot;&gt;&lt;/a&gt;本次升级的主要内容&lt;/h4&gt;&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;对后台的整体界面进行了调整，使页面更清晰简洁！&lt;/p&gt;
 &lt;/li&gt;
+      
     
     </summary>
     
@@ -339,54 +299,16 @@
     <published>2016-02-16T01:28:00.000Z</published>
     <updated>2016-06-15T13:34:12.000Z</updated>
     
-    <content type="html">&lt;blockquote&gt;
-&lt;p&gt;各位农场主你们好，&lt;/p&gt;
-&lt;p&gt;为了使我们的系统兼容更多农场的业务，我们将于&lt;strong&gt;2月17日（明天）晚21:00——22:00&lt;/strong&gt; 对系统进行升级，&lt;font color=&quot;#FF0000&quot;&gt;升级完成后，所有会员需更新好农场app后才可以正常点菜，&lt;/font&gt;给您带来的不便敬请谅解。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&quot;本次升级的主要内容&quot;&gt;&lt;a href=&quot;#本次升级的主要内容&quot; class=&quot;headerlink&quot; title=&quot;本次升级的主要内容&quot;&gt;&lt;/a&gt;本次升级的主要内容&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;修改会员商品中蔬菜的计价方式&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;会员套餐中增加两种类型的单次配送要求&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;会员订单可以设置第三方物流了&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;商品库中隐藏商品编号及商品单位的显示&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;优化修复一些bug&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;升级详情介绍&quot;&gt;&lt;a href=&quot;#升级详情介绍&quot; class=&quot;headerlink&quot; title=&quot;升级详情介绍&quot;&gt;&lt;/a&gt;升级详情介绍&lt;/h4&gt;&lt;h5 id=&quot;修改会员商品中蔬菜的计价方式&quot;&gt;&lt;a href=&quot;#修改会员商品中蔬菜的计价方式&quot; class=&quot;headerlink&quot; title=&quot;修改会员商品中蔬菜的计价方式&quot;&gt;&lt;/a&gt;&lt;strong&gt;修改会员商品中蔬菜的计价方式&lt;/strong&gt;&lt;/h5&gt;&lt;p&gt;本次更新将会员商品中蔬菜按重量统一计价的方式修改为按份计价的方式，即每种蔬菜可设置单独的价格。修改后，商品库中的每个商品都可以设置不同的套餐价。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;原有按重量计价设置的农场，系统将根据蔬菜的重量和套餐单价自动计算出该蔬菜的套餐价，&lt;font color=&quot;#ff0000&quot;&gt;更新后，请农场对蔬菜套餐价进行核对。&lt;/font&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-26/10592278.jpg-w619&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;本次更新后新增加的商品，可根据需要为商品设置不同的套餐价。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-26/85176000.jpg-w619&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;与此同时，会员在好农场app上进入点菜页将看到对应自己套餐的蔬菜套餐价。此外，+ 号的左侧也增加了已选数量和 - 号的显示及操作。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-26/19524784.jpg-w415&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h5 id=&quot;会员套餐中增加两种类型的单次配送要求&quot;&gt;&lt;a href=&quot;#会员套餐中增加两种类型的单次配送要求&quot; class=&quot;headerlink&quot; title=&quot;会员套餐中增加两种类型的单次配送要求&quot;&gt;&lt;/a&gt;&lt;strong&gt;会员套餐中增加两种类型的单次配送要求&lt;/strong&gt;&lt;/h5&gt;&lt;p&gt;除原有的蔬菜重量条件外，我们新增了按蔬菜份数、按订单金额的配送条件，农场可以根据自己的业务模式任选其中的一个条件来限制会员是否达到单次配送要求。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-26/56456935.jpg-w619&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;本次更新前所有套餐均是按蔬菜重量要求的，更新后蔬菜重量要求不会变。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h5 id=&quot;会员订单可以设置第三方物流了&quot;&gt;&lt;a href=&quot;#会员订单可以设置第三方物流了&quot; class=&quot;headerlink&quot; title=&quot;会员订单可以设置第三方物流了&quot;&gt;&lt;/a&gt;&lt;strong&gt;会员订单可以设置第三方物流了&lt;/strong&gt;&lt;/h5&gt;&lt;p&gt;除原有的自有物流配送方式，会员订单也可以设置第三方物流（顺丰、申通等）配送了，好农场app端可以根据农场输入的物流单号查看物流信息。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;此外，好农场与“黑狗物流”、“京铁物流”建立了合作关系（两家公司目前仅支持北京地区配送），并在物流系统上进行了对接，农场可以通过好农场后台直接下单配送，物流公司会根据订单自动生成运单号，并安排工作人员上门揽件。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;第三方物流设置方法：&lt;/strong&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1.  在 “会员”-“会员配送日”中，修改配送日，在配送线路中新增配送线路，将线路的配送方式设置为“第三方物流”。
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-26/40279423.jpg-w415&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;2.  在配送时，“结束点菜”后，切换到线路名下，点击“设置运单号”。
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-26/3351197.jpg-w619&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;3.  设置好运单号并开始配送后，会员就可以在好农场app上查看物流信息了。
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-26/4227128.jpg-w415&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-</content>
+    <content type="html"><![CDATA[<blockquote><p>各位农场主你们好，</p><p>为了使我们的系统兼容更多农场的业务，我们将于<strong>2月17日（明天）晚21:00——22:00</strong> 对系统进行升级，<font color="#FF0000">升级完成后，所有会员需更新好农场app后才可以正常点菜，</font>给您带来的不便敬请谅解。</p></blockquote><h4 id="本次升级的主要内容"><a href="#本次升级的主要内容" class="headerlink" title="本次升级的主要内容"></a>本次升级的主要内容</h4><ol><li><p>修改会员商品中蔬菜的计价方式</p></li><li><p>会员套餐中增加两种类型的单次配送要求</p></li><li><p>会员订单可以设置第三方物流了</p></li><li><p>商品库中隐藏商品编号及商品单位的显示</p></li><li><p>优化修复一些bug</p></li></ol><h4 id="升级详情介绍"><a href="#升级详情介绍" class="headerlink" title="升级详情介绍"></a>升级详情介绍</h4><h5 id="修改会员商品中蔬菜的计价方式"><a href="#修改会员商品中蔬菜的计价方式" class="headerlink" title="修改会员商品中蔬菜的计价方式"></a><strong>修改会员商品中蔬菜的计价方式</strong></h5><p>本次更新将会员商品中蔬菜按重量统一计价的方式修改为按份计价的方式，即每种蔬菜可设置单独的价格。修改后，商品库中的每个商品都可以设置不同的套餐价。</p><blockquote><p>原有按重量计价设置的农场，系统将根据蔬菜的重量和套餐单价自动计算出该蔬菜的套餐价，<font color="#ff0000">更新后，请农场对蔬菜套餐价进行核对。</font></p></blockquote><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-26/10592278.jpg-w619" alt=""></p><p>本次更新后新增加的商品，可根据需要为商品设置不同的套餐价。</p><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-26/85176000.jpg-w619" alt=""></p><p>与此同时，会员在好农场app上进入点菜页将看到对应自己套餐的蔬菜套餐价。此外，+ 号的左侧也增加了已选数量和 - 号的显示及操作。</p><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-26/19524784.jpg-w415" alt=""></p><h5 id="会员套餐中增加两种类型的单次配送要求"><a href="#会员套餐中增加两种类型的单次配送要求" class="headerlink" title="会员套餐中增加两种类型的单次配送要求"></a><strong>会员套餐中增加两种类型的单次配送要求</strong></h5><p>除原有的蔬菜重量条件外，我们新增了按蔬菜份数、按订单金额的配送条件，农场可以根据自己的业务模式任选其中的一个条件来限制会员是否达到单次配送要求。</p><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-26/56456935.jpg-w619" alt=""></p><blockquote><p>本次更新前所有套餐均是按蔬菜重量要求的，更新后蔬菜重量要求不会变。</p></blockquote><h5 id="会员订单可以设置第三方物流了"><a href="#会员订单可以设置第三方物流了" class="headerlink" title="会员订单可以设置第三方物流了"></a><strong>会员订单可以设置第三方物流了</strong></h5><p>除原有的自有物流配送方式，会员订单也可以设置第三方物流（顺丰、申通等）配送了，好农场app端可以根据农场输入的物流单号查看物流信息。</p><blockquote><p>此外，好农场与“黑狗物流”、“京铁物流”建立了合作关系（两家公司目前仅支持北京地区配送），并在物流系统上进行了对接，农场可以通过好农场后台直接下单配送，物流公司会根据订单自动生成运单号，并安排工作人员上门揽件。</p></blockquote><p><strong>第三方物流设置方法：</strong></p><pre><code>1.  在 “会员”-“会员配送日”中，修改配送日，在配送线路中新增配送线路，将线路的配送方式设置为“第三方物流”。</code></pre><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-26/40279423.jpg-w415" alt=""></p><pre><code>2.  在配送时，“结束点菜”后，切换到线路名下，点击“设置运单号”。</code></pre><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-26/3351197.jpg-w619" alt=""></p><pre><code>3.  设置好运单号并开始配送后，会员就可以在好农场app上查看物流信息了。</code></pre><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-26/4227128.jpg-w415" alt=""></p>]]></content>
     
     <summary type="html">
     
-      &lt;blockquote&gt;
+      
+      
+        &lt;blockquote&gt;
 &lt;p&gt;各位农场主你们好，&lt;/p&gt;
 &lt;p&gt;为了使我们的系统兼容更多农场的业务，我们将于&lt;strong&gt;2月17日（明天）晚21:00——22:00&lt;/strong&gt; 对系统进行升级，&lt;font color=&quot;#FF0000&quot;&gt;升级完成后，所有会员需更新好农
+      
     
     </summary>
     
@@ -406,38 +328,15 @@
     <published>2016-01-22T02:18:48.000Z</published>
     <updated>2016-06-15T00:37:10.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;/start-shipping/&quot; title=&quot;开始配送&quot;&gt;开始配送&lt;/a&gt; 后，如果确认会员都收货了，就可以点配送完成了。&lt;/em&gt;&lt;/p&gt;
-&lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-订单-会员订单&lt;/p&gt;
-&lt;h4 id=&quot;二、操作流程&quot;&gt;&lt;a href=&quot;#二、操作流程&quot; class=&quot;headerlink&quot; title=&quot;二、操作流程&quot;&gt;&lt;/a&gt;二、操作流程&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;配送完成&lt;/li&gt;
-&lt;li&gt;退款&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;三、流程介绍&quot;&gt;&lt;a href=&quot;#三、流程介绍&quot; class=&quot;headerlink&quot; title=&quot;三、流程介绍&quot;&gt;&lt;/a&gt;三、流程介绍&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;配送完成&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;点“配送完成”后，系统将对本次配送的会员从套餐余额里进行实际的扣款。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;提示：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;如果配送中途出现问题，可以点订单里的“配送失败”，则本次配送不扣款。&lt;/li&gt;
-&lt;li&gt;如果农场没有点击配送完成，则系统会在 &lt;strong&gt;配送日期&lt;/strong&gt; 结束的这一天，自动将订单状态改为“配送完成”，并完成扣款。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/31079784.jpg-w619&quot; alt=&quot;配送完成&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;退款&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;订单扣款后，如果因商品质量问题需要退款，可以点订单里的“退款”。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/59462410.jpg-w619&quot; alt=&quot;配送完成2&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;配送日期（&lt;code&gt;例上图中的2016年1月26日&lt;/code&gt;）结束后，系统会自动将订单归档到“全部会员订单”中，农场可按配送日期查询。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</content>
+    <content type="html"><![CDATA[<p><em><a href="/start-shipping/" title="开始配送">开始配送</a> 后，如果确认会员都收货了，就可以点配送完成了。</em></p><h4 id="一、操作路径"><a href="#一、操作路径" class="headerlink" title="一、操作路径"></a>一、操作路径</h4><p>好农场管理后台-订单-会员订单</p><h4 id="二、操作流程"><a href="#二、操作流程" class="headerlink" title="二、操作流程"></a>二、操作流程</h4><ol><li>配送完成</li><li>退款</li></ol><h4 id="三、流程介绍"><a href="#三、流程介绍" class="headerlink" title="三、流程介绍"></a>三、流程介绍</h4><ol><li><p><strong>配送完成</strong></p><p>点“配送完成”后，系统将对本次配送的会员从套餐余额里进行实际的扣款。</p><blockquote><p>提示：</p><ol><li>如果配送中途出现问题，可以点订单里的“配送失败”，则本次配送不扣款。</li><li>如果农场没有点击配送完成，则系统会在 <strong>配送日期</strong> 结束的这一天，自动将订单状态改为“配送完成”，并完成扣款。</li></ol></blockquote><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/31079784.jpg-w619" alt="配送完成"></p></li><li><p><strong>退款</strong></p><p>订单扣款后，如果因商品质量问题需要退款，可以点订单里的“退款”。</p><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/59462410.jpg-w619" alt="配送完成2"></p><blockquote><p>配送日期（<code>例上图中的2016年1月26日</code>）结束后，系统会自动将订单归档到“全部会员订单”中，农场可按配送日期查询。</p></blockquote></li></ol>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;em&gt;&lt;a href=&quot;/start-shipping/&quot; title=&quot;开始配送&quot;&gt;开始配送&lt;/a&gt; 后，如果确认会员都收货了，就可以点配送完成了。&lt;/em&gt;&lt;/p&gt;
+      
+      
+        &lt;p&gt;&lt;em&gt;&lt;a href=&quot;/start-shipping/&quot; title=&quot;开始配送&quot;&gt;开始配送&lt;/a&gt; 后，如果确认会员都收货了，就可以点配送完成了。&lt;/em&gt;&lt;/p&gt;
 &lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink
+      
     
     </summary>
     
@@ -461,41 +360,15 @@
     <published>2016-01-22T02:10:27.000Z</published>
     <updated>2016-06-15T00:38:03.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;/start-ordering/&quot; title=&quot;开始点菜&quot;&gt;开始点菜&lt;/a&gt; 且会员点完菜后，就可以操作结束点菜了&lt;/em&gt;&lt;/p&gt;
-&lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-订单-会员订单&lt;/p&gt;
-&lt;h4 id=&quot;二、操作流程&quot;&gt;&lt;a href=&quot;#二、操作流程&quot; class=&quot;headerlink&quot; title=&quot;二、操作流程&quot;&gt;&lt;/a&gt;二、操作流程&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;结束点菜&lt;/li&gt;
-&lt;li&gt;打印会员单据&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;三、流程介绍&quot;&gt;&lt;a href=&quot;#三、流程介绍&quot; class=&quot;headerlink&quot; title=&quot;三、流程介绍&quot;&gt;&lt;/a&gt;三、流程介绍&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;结束点菜&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;点击”结束点菜“后，订单状态会变为”等待配送“。这时候会员就不能通过好农场app点菜了，但是后台仍然可以修改订单。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;提示：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;一旦结束点菜，就不可以再恢复点菜了。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;如果在点菜期间或点菜结束后，有其它配送日的会员想在当前配送日配送，可以点”新增订单“来增加一个临时订单，临时订单暂时不支持app点菜。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/48503251.jpg-w619&quot; alt=&quot;结束点菜&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;打印会员单据&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;结束点菜后，可以”打印备货总单“来统计本次配送的备货清单。切换到&lt;strong&gt;线路&lt;/strong&gt;标签后，可以打印”配菜单“、”会员销售单“等。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;例：下图从 &lt;strong&gt;“全部”&lt;/strong&gt; 标签切换到了线路 &lt;strong&gt;“顺丰速运”&lt;/strong&gt;标签页&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/52321369.jpg-w619&quot; alt=&quot;按线路查看订单&quot;&gt;&lt;/p&gt;
-&lt;p&gt;“会员销售单”将根据 &lt;em&gt;配送顺序&lt;/em&gt; 批量打印，可作为配菜单使用，建议使用A5纸张打印。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</content>
+    <content type="html"><![CDATA[<p><em><a href="/start-ordering/" title="开始点菜">开始点菜</a> 且会员点完菜后，就可以操作结束点菜了</em></p><h4 id="一、操作路径"><a href="#一、操作路径" class="headerlink" title="一、操作路径"></a>一、操作路径</h4><p>好农场管理后台-订单-会员订单</p><h4 id="二、操作流程"><a href="#二、操作流程" class="headerlink" title="二、操作流程"></a>二、操作流程</h4><ol><li>结束点菜</li><li>打印会员单据</li></ol><h4 id="三、流程介绍"><a href="#三、流程介绍" class="headerlink" title="三、流程介绍"></a>三、流程介绍</h4><ol><li><p><strong>结束点菜</strong></p><p>点击”结束点菜“后，订单状态会变为”等待配送“。这时候会员就不能通过好农场app点菜了，但是后台仍然可以修改订单。</p><blockquote><p>提示：</p><ol><li><p>一旦结束点菜，就不可以再恢复点菜了。</p></li><li><p>如果在点菜期间或点菜结束后，有其它配送日的会员想在当前配送日配送，可以点”新增订单“来增加一个临时订单，临时订单暂时不支持app点菜。</p></li></ol></blockquote><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/48503251.jpg-w619" alt="结束点菜"></p></li><li><p><strong>打印会员单据</strong></p><p>结束点菜后，可以”打印备货总单“来统计本次配送的备货清单。切换到<strong>线路</strong>标签后，可以打印”配菜单“、”会员销售单“等。</p><blockquote><p>例：下图从 <strong>“全部”</strong> 标签切换到了线路 <strong>“顺丰速运”</strong>标签页</p></blockquote><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/52321369.jpg-w619" alt="按线路查看订单"></p><p>“会员销售单”将根据 <em>配送顺序</em> 批量打印，可作为配菜单使用，建议使用A5纸张打印。</p></li></ol>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;em&gt;&lt;a href=&quot;/start-ordering/&quot; title=&quot;开始点菜&quot;&gt;开始点菜&lt;/a&gt; 且会员点完菜后，就可以操作结束点菜了&lt;/em&gt;&lt;/p&gt;
+      
+      
+        &lt;p&gt;&lt;em&gt;&lt;a href=&quot;/start-ordering/&quot; title=&quot;开始点菜&quot;&gt;开始点菜&lt;/a&gt; 且会员点完菜后，就可以操作结束点菜了&lt;/em&gt;&lt;/p&gt;
 &lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; tit
+      
     
     </summary>
     
@@ -517,36 +390,15 @@
     <published>2016-01-21T14:29:37.000Z</published>
     <updated>2016-06-15T00:37:48.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;em&gt;&lt;a href=&quot;/end-ordering/&quot; title=&quot;结束点菜&quot;&gt;结束点菜&lt;/a&gt; 后，把会员蔬菜都装完箱，就可以安排配送了&lt;/em&gt;&lt;/p&gt;
-&lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-订单-会员订单&lt;/p&gt;
-&lt;h4 id=&quot;二、操作流程&quot;&gt;&lt;a href=&quot;#二、操作流程&quot; class=&quot;headerlink&quot; title=&quot;二、操作流程&quot;&gt;&lt;/a&gt;二、操作流程&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;打印送货单或设置物流号&lt;/li&gt;
-&lt;li&gt;开始配送&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;三、流程介绍&quot;&gt;&lt;a href=&quot;#三、流程介绍&quot; class=&quot;headerlink&quot; title=&quot;三、流程介绍&quot;&gt;&lt;/a&gt;三、流程介绍&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;打印送货单或设置物流号&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;开始配送前，需根据新增会员配送日时设置的配送线路类型在 &lt;strong&gt;线路名&lt;/strong&gt; 标签页内 “打印送货单”或“设置运单号”。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/34226931.jpg-w619&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;提示：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;如果线路类型为 “&lt;em&gt;自有物流&lt;/em&gt; ”，则直接“打印送货单”即可,可修改“&lt;strong&gt;配送顺序&lt;/strong&gt;”来调整送货单的订单顺序；&lt;/li&gt;
-&lt;li&gt;如果线路类型为 “&lt;em&gt;好农场合作物流&lt;/em&gt; ”，则无需打印操作；&lt;/li&gt;
-&lt;li&gt;如果线路类型为 “&lt;em&gt;第三方物流&lt;/em&gt; ”，则需“设置运单号” ，否则会员无法通过好农场app查询物流信息。（可根据需要打印送货单）&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;开始配送&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;点“开始配送”按钮后，所有会员订单状态将变为“正在配送”。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/69978286.jpg-w619&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</content>
+    <content type="html"><![CDATA[<p><em><a href="/end-ordering/" title="结束点菜">结束点菜</a> 后，把会员蔬菜都装完箱，就可以安排配送了</em></p><h4 id="一、操作路径"><a href="#一、操作路径" class="headerlink" title="一、操作路径"></a>一、操作路径</h4><p>好农场管理后台-订单-会员订单</p><h4 id="二、操作流程"><a href="#二、操作流程" class="headerlink" title="二、操作流程"></a>二、操作流程</h4><ol><li>打印送货单或设置物流号</li><li>开始配送</li></ol><h4 id="三、流程介绍"><a href="#三、流程介绍" class="headerlink" title="三、流程介绍"></a>三、流程介绍</h4><ol><li><p><strong>打印送货单或设置物流号</strong></p><p>开始配送前，需根据新增会员配送日时设置的配送线路类型在 <strong>线路名</strong> 标签页内 “打印送货单”或“设置运单号”。</p><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/34226931.jpg-w619" alt=""></p><blockquote><p>提示：</p><ol><li>如果线路类型为 “<em>自有物流</em> ”，则直接“打印送货单”即可,可修改“<strong>配送顺序</strong>”来调整送货单的订单顺序；</li><li>如果线路类型为 “<em>好农场合作物流</em> ”，则无需打印操作；</li><li>如果线路类型为 “<em>第三方物流</em> ”，则需“设置运单号” ，否则会员无法通过好农场app查询物流信息。（可根据需要打印送货单）</li></ol></blockquote></li><li><p><strong>开始配送</strong></p><p>点“开始配送”按钮后，所有会员订单状态将变为“正在配送”。</p><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/69978286.jpg-w619" alt=""></p></li></ol>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;em&gt;&lt;a href=&quot;/end-ordering/&quot; title=&quot;结束点菜&quot;&gt;结束点菜&lt;/a&gt; 后，把会员蔬菜都装完箱，就可以安排配送了&lt;/em&gt;&lt;/p&gt;
+      
+      
+        &lt;p&gt;&lt;em&gt;&lt;a href=&quot;/end-ordering/&quot; title=&quot;结束点菜&quot;&gt;结束点菜&lt;/a&gt; 后，把会员蔬菜都装完箱，就可以安排配送了&lt;/em&gt;&lt;/p&gt;
 &lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; tit
+      
     
     </summary>
     
@@ -566,37 +418,15 @@
     <published>2016-01-21T10:55:47.000Z</published>
     <updated>2016-06-15T00:38:30.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;em&gt;执行完  &lt;a href=&quot;/create-a-delivery-scheme/&quot; title=&quot;开始配送计划&quot;&gt;开始配送计划&lt;/a&gt;，就可以开始点菜了。&lt;/em&gt;&lt;/p&gt;
-&lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-订单-会员订单&lt;/p&gt;
-&lt;h4 id=&quot;二、操作流程&quot;&gt;&lt;a href=&quot;#二、操作流程&quot; class=&quot;headerlink&quot; title=&quot;二、操作流程&quot;&gt;&lt;/a&gt;二、操作流程&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;开始点菜&lt;/li&gt;
-&lt;li&gt;查看点菜状态&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;三、流程介绍&quot;&gt;&lt;a href=&quot;#三、流程介绍&quot; class=&quot;headerlink&quot; title=&quot;三、流程介绍&quot;&gt;&lt;/a&gt;三、流程介绍&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;开始点菜&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;点“开始点菜”后，当前配送日所有的会员订单状态会变为”用户点菜“，这时会员也可以在“好农场app”上点菜了。&lt;/p&gt;
-&lt;p&gt;关于好农场app的使用介绍请查阅：&lt;a href=&quot;&quot;&gt;会员如何使用好农场app?&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/74924968.jpg-w619&quot; alt=&quot;开始点菜&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;查看点菜状态&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;开始点菜后，如果会员还未点菜，则会员订单的&lt;strong&gt;点菜状态&lt;/strong&gt;为&lt;em&gt;未点菜&lt;/em&gt;。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;提示：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;如果会员通过&lt;em&gt;好农场app&lt;/em&gt;点菜，则会员订单的&lt;strong&gt;点菜状态&lt;/strong&gt;为&lt;em&gt;app点菜&lt;/em&gt;；&lt;/li&gt;
-&lt;li&gt;农场可以通过 &lt;em&gt;修改订单&lt;/em&gt; 在后台给会员点菜，在修改订单页勾选“已点菜”后，会员订单的&lt;strong&gt;点菜状态&lt;/strong&gt;为&lt;em&gt;后台点菜&lt;/em&gt;；&lt;/li&gt;
-&lt;li&gt;点击”展开高级搜索“可以通过点菜状态来筛选订单。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/47819603.jpg-w619&quot; alt=&quot;开始点菜2&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</content>
+    <content type="html"><![CDATA[<p><em>执行完  <a href="/create-a-delivery-scheme/" title="开始配送计划">开始配送计划</a>，就可以开始点菜了。</em></p><h4 id="一、操作路径"><a href="#一、操作路径" class="headerlink" title="一、操作路径"></a>一、操作路径</h4><p>好农场管理后台-订单-会员订单</p><h4 id="二、操作流程"><a href="#二、操作流程" class="headerlink" title="二、操作流程"></a>二、操作流程</h4><ol><li>开始点菜</li><li>查看点菜状态</li></ol><h4 id="三、流程介绍"><a href="#三、流程介绍" class="headerlink" title="三、流程介绍"></a>三、流程介绍</h4><ol><li><p><strong>开始点菜</strong></p><p>点“开始点菜”后，当前配送日所有的会员订单状态会变为”用户点菜“，这时会员也可以在“好农场app”上点菜了。</p><p>关于好农场app的使用介绍请查阅：<a href="">会员如何使用好农场app?</a></p><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/74924968.jpg-w619" alt="开始点菜"></p></li><li><p><strong>查看点菜状态</strong></p><p>开始点菜后，如果会员还未点菜，则会员订单的<strong>点菜状态</strong>为<em>未点菜</em>。</p><blockquote><p>提示：</p><ol><li>如果会员通过<em>好农场app</em>点菜，则会员订单的<strong>点菜状态</strong>为<em>app点菜</em>；</li><li>农场可以通过 <em>修改订单</em> 在后台给会员点菜，在修改订单页勾选“已点菜”后，会员订单的<strong>点菜状态</strong>为<em>后台点菜</em>；</li><li>点击”展开高级搜索“可以通过点菜状态来筛选订单。</li></ol></blockquote><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/47819603.jpg-w619" alt="开始点菜2"></p></li></ol>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;em&gt;执行完  &lt;a href=&quot;/create-a-delivery-scheme/&quot; title=&quot;开始配送计划&quot;&gt;开始配送计划&lt;/a&gt;，就可以开始点菜了。&lt;/em&gt;&lt;/p&gt;
+      
+      
+        &lt;p&gt;&lt;em&gt;执行完  &lt;a href=&quot;/create-a-delivery-scheme/&quot; title=&quot;开始配送计划&quot;&gt;开始配送计划&lt;/a&gt;，就可以开始点菜了。&lt;/em&gt;&lt;/p&gt;
 &lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;heade
+      
     
     </summary>
     
@@ -616,44 +446,15 @@
     <published>2016-01-21T10:19:14.000Z</published>
     <updated>2016-06-12T02:52:05.000Z</updated>
     
-    <content type="html">&lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-订单-会员订单&lt;/p&gt;
-&lt;h4 id=&quot;二、操作流程&quot;&gt;&lt;a href=&quot;#二、操作流程&quot; class=&quot;headerlink&quot; title=&quot;二、操作流程&quot;&gt;&lt;/a&gt;二、操作流程&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;选择配送日&lt;/li&gt;
-&lt;li&gt;确认可选蔬菜&lt;/li&gt;
-&lt;li&gt;确认附加商品&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;三、流程介绍&quot;&gt;&lt;a href=&quot;#三、流程介绍&quot; class=&quot;headerlink&quot; title=&quot;三、流程介绍&quot;&gt;&lt;/a&gt;三、流程介绍&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;选择配送日&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;点击要开始配送的配送日，例如“星期二”，具体的配送日期系统会自动更新。点“开始配送计划”就可以开始本次配送了。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/38367956.jpg-w619&quot; alt=&quot;开始配送&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;确认可选蔬菜&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;确认一下之前在“会员商品“中设置的菜单，在这里可以直接修改库存和限购数量，也可以点右上角的“调整蔬菜”去可选蔬菜页面调整。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/51446212.jpg-w619&quot; alt=&quot;确认菜单&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;确认附加商品&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;执行“下一步”后会确认一下原先设置的附加商品，同样也可以调整。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;会员套餐订购数量：&lt;/strong&gt;指会员在订购套餐时设置的“套餐附加商品”，如果有会员在套餐中订购了某一商品，则在“确认生成”后，系统会自动给该会员分配这个商品（除非库存不足）。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/11172871.jpg-w619&quot; alt=&quot;确认附加商品&quot;&gt;&lt;/p&gt;
-&lt;p&gt;确认生成后，系统会给所有该配送日期没设置停配的会员生成一个配送订单。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/40142031.jpg-w619&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;提示:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;在”开始点菜“之前，点击”取消本次配送“可以取消已生成的配送计划。&lt;/li&gt;
-&lt;li&gt;点击“未配送会员”，可以查看本次配送有哪些会员设置了停配，并在弹出窗中为会员&lt;strong&gt;恢复本次配送&lt;/strong&gt;和创建订单。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</content>
+    <content type="html"><![CDATA[<h4 id="一、操作路径"><a href="#一、操作路径" class="headerlink" title="一、操作路径"></a>一、操作路径</h4><p>好农场管理后台-订单-会员订单</p><h4 id="二、操作流程"><a href="#二、操作流程" class="headerlink" title="二、操作流程"></a>二、操作流程</h4><ol><li>选择配送日</li><li>确认可选蔬菜</li><li>确认附加商品</li></ol><h4 id="三、流程介绍"><a href="#三、流程介绍" class="headerlink" title="三、流程介绍"></a>三、流程介绍</h4><ol><li><p><strong>选择配送日</strong></p><p>点击要开始配送的配送日，例如“星期二”，具体的配送日期系统会自动更新。点“开始配送计划”就可以开始本次配送了。</p><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/38367956.jpg-w619" alt="开始配送"></p></li><li><p><strong>确认可选蔬菜</strong></p><p>确认一下之前在“会员商品“中设置的菜单，在这里可以直接修改库存和限购数量，也可以点右上角的“调整蔬菜”去可选蔬菜页面调整。</p><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/51446212.jpg-w619" alt="确认菜单"></p></li><li><p><strong>确认附加商品</strong></p><p>执行“下一步”后会确认一下原先设置的附加商品，同样也可以调整。</p><blockquote><p><strong>会员套餐订购数量：</strong>指会员在订购套餐时设置的“套餐附加商品”，如果有会员在套餐中订购了某一商品，则在“确认生成”后，系统会自动给该会员分配这个商品（除非库存不足）。</p></blockquote><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/11172871.jpg-w619" alt="确认附加商品"></p><p>确认生成后，系统会给所有该配送日期没设置停配的会员生成一个配送订单。</p><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/40142031.jpg-w619" alt=""></p><blockquote><p>提示:</p><ol><li>在”开始点菜“之前，点击”取消本次配送“可以取消已生成的配送计划。</li><li>点击“未配送会员”，可以查看本次配送有哪些会员设置了停配，并在弹出窗中为会员<strong>恢复本次配送</strong>和创建订单。</li></ol></blockquote></li></ol>]]></content>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-订单-会员订单&lt;/p&gt;
+      
+      
+        &lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-订单-会员订单&lt;/p&gt;
 &lt;h4 id=&quot;二、操作流程&quot;&gt;&lt;a href=&quot;#二、操作流程&quot; 
+      
     
     </summary>
     
@@ -673,22 +474,14 @@
     <published>2016-01-21T09:14:54.000Z</published>
     <updated>2016-06-12T01:17:41.000Z</updated>
     
-    <content type="html">&lt;h5 id=&quot;Q：好农场app下载地址？&quot;&gt;&lt;a href=&quot;#Q：好农场app下载地址？&quot; class=&quot;headerlink&quot; title=&quot;Q：好农场app下载地址？&quot;&gt;&lt;/a&gt;Q：好农场app下载地址？&lt;/h5&gt;&lt;p&gt;A:下载地址: &lt;a href=&quot;http://t.cn/RypMGNI&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://t.cn/RypMGNI&lt;/a&gt; ，苹果和安卓手机都可以通过这个链接下载。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/17418674.jpg&quot; alt=&quot;二维码&quot;&gt;&lt;/p&gt;
-&lt;h5 id=&quot;Q-苹果手机打开好农场app闪退-系统版本-IOS6-0&quot;&gt;&lt;a href=&quot;#Q-苹果手机打开好农场app闪退-系统版本-IOS6-0&quot; class=&quot;headerlink&quot; title=&quot;Q: 苹果手机打开好农场app闪退?(系统版本 IOS6.0)&quot;&gt;&lt;/a&gt;Q: 苹果手机打开好农场app闪退?(系统版本 IOS6.0)&lt;/h5&gt;&lt;p&gt;A:很抱歉，目前我们的软件只兼容IOS7.0以上的苹果系统，您可以对手机系统进行升级。&lt;/p&gt;
-&lt;h5 id=&quot;Q：会员通过app点菜或停配后后台是否有通知&quot;&gt;&lt;a href=&quot;#Q：会员通过app点菜或停配后后台是否有通知&quot; class=&quot;headerlink&quot; title=&quot;Q：会员通过app点菜或停配后后台是否有通知&quot;&gt;&lt;/a&gt;Q：会员通过app点菜或停配后后台是否有通知&lt;/h5&gt;&lt;p&gt;A:目前app有开始点菜提醒以及点菜快要结束时的提醒，同时会员在app上充值后，农场主的手机也会收到充值短信提醒。暂时没有停配提醒。&lt;/p&gt;
-&lt;h5 id=&quot;Q：我应该如何邀请会员下载app点菜？&quot;&gt;&lt;a href=&quot;#Q：我应该如何邀请会员下载app点菜？&quot; class=&quot;headerlink&quot; title=&quot;Q：我应该如何邀请会员下载app点菜？&quot;&gt;&lt;/a&gt;Q：我应该如何邀请会员下载app点菜？&lt;/h5&gt;&lt;p&gt;A:我们提供了以下短信或微信邀请模板，您可以稍做修改后发送给会员。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;【有家农场】尊敬的会员,农场开通会员点菜服务了，现正式邀请您参与体验！&lt;/p&gt;
-&lt;p&gt;请安装“好农场” 手机app（下载地址: &lt;code&gt;http://t.cn/RypMGNI&lt;/code&gt; ），并使用手机号码 186XXXXXXX 来注册，以便您的账户与农场后台关联。&lt;/p&gt;
-&lt;p&gt;注册成功后即可在app上进行点菜、停配等操作。&lt;/p&gt;
-&lt;p&gt;如有疑问，请联系客服 010-6666xxxx，祝您使用愉快！&lt;/p&gt;
-&lt;/blockquote&gt;
-</content>
+    <content type="html"><![CDATA[<h5 id="Q：好农场app下载地址？"><a href="#Q：好农场app下载地址？" class="headerlink" title="Q：好农场app下载地址？"></a>Q：好农场app下载地址？</h5><p>A:下载地址: <a href="http://t.cn/RypMGNI" target="_blank" rel="external">http://t.cn/RypMGNI</a> ，苹果和安卓手机都可以通过这个链接下载。</p><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/17418674.jpg" alt="二维码"></p><h5 id="Q-苹果手机打开好农场app闪退-系统版本-IOS6-0"><a href="#Q-苹果手机打开好农场app闪退-系统版本-IOS6-0" class="headerlink" title="Q: 苹果手机打开好农场app闪退?(系统版本 IOS6.0)"></a>Q: 苹果手机打开好农场app闪退?(系统版本 IOS6.0)</h5><p>A:很抱歉，目前我们的软件只兼容IOS7.0以上的苹果系统，您可以对手机系统进行升级。</p><h5 id="Q：会员通过app点菜或停配后后台是否有通知"><a href="#Q：会员通过app点菜或停配后后台是否有通知" class="headerlink" title="Q：会员通过app点菜或停配后后台是否有通知"></a>Q：会员通过app点菜或停配后后台是否有通知</h5><p>A:目前app有开始点菜提醒以及点菜快要结束时的提醒，同时会员在app上充值后，农场主的手机也会收到充值短信提醒。暂时没有停配提醒。</p><h5 id="Q：我应该如何邀请会员下载app点菜？"><a href="#Q：我应该如何邀请会员下载app点菜？" class="headerlink" title="Q：我应该如何邀请会员下载app点菜？"></a>Q：我应该如何邀请会员下载app点菜？</h5><p>A:我们提供了以下短信或微信邀请模板，您可以稍做修改后发送给会员。</p><blockquote><p>【有家农场】尊敬的会员,农场开通会员点菜服务了，现正式邀请您参与体验！</p><p>请安装“好农场” 手机app（下载地址: <code>http://t.cn/RypMGNI</code> ），并使用手机号码 186XXXXXXX 来注册，以便您的账户与农场后台关联。</p><p>注册成功后即可在app上进行点菜、停配等操作。</p><p>如有疑问，请联系客服 010-6666xxxx，祝您使用愉快！</p></blockquote>]]></content>
     
     <summary type="html">
     
-      &lt;h5 id=&quot;Q：好农场app下载地址？&quot;&gt;&lt;a href=&quot;#Q：好农场app下载地址？&quot; class=&quot;headerlink&quot; title=&quot;Q：好农场app下载地址？&quot;&gt;&lt;/a&gt;Q：好农场app下载地址？&lt;/h5&gt;&lt;p&gt;A:下载地址: &lt;a href=&quot;http://t.
+      
+      
+        &lt;h5 id=&quot;Q：好农场app下载地址？&quot;&gt;&lt;a href=&quot;#Q：好农场app下载地址？&quot; class=&quot;headerlink&quot; title=&quot;Q：好农场app下载地址？&quot;&gt;&lt;/a&gt;Q：好农场app下载地址？&lt;/h5&gt;&lt;p&gt;A:下载地址: &lt;a href=&quot;http://t.
+      
     
     </summary>
     
@@ -708,42 +501,15 @@
     <published>2016-01-21T09:07:34.000Z</published>
     <updated>2016-06-15T00:46:06.000Z</updated>
     
-    <content type="html">&lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-商品-会员商品&lt;/p&gt;
-&lt;h4 id=&quot;二、操作流程&quot;&gt;&lt;a href=&quot;#二、操作流程&quot; class=&quot;headerlink&quot; title=&quot;二、操作流程&quot;&gt;&lt;/a&gt;二、操作流程&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;上架可选蔬菜&lt;/li&gt;
-&lt;li&gt;上架附加商品&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;三、流程介绍&quot;&gt;&lt;a href=&quot;#三、流程介绍&quot; class=&quot;headerlink&quot; title=&quot;三、流程介绍&quot;&gt;&lt;/a&gt;三、流程介绍&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;上架可选蔬菜&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在会员商品下选择”可选蔬菜“，可以通过”上架“或”复制上次菜单“的方式上架可选蔬菜。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;复制上一次菜单：&lt;/strong&gt;点击后可以将上一次配送时上架的蔬菜直接复制到当前配送日。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;提示：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;在上架蔬菜前应先切换到要执行配送的配送日，如下图选中的是“星期二”。&lt;/li&gt;
-&lt;li&gt;限购数量为0时表示不限购。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/77544474.jpg-w619&quot; alt=&quot;可选蔬菜&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;在上架蔬菜的弹出框中，&lt;font color=&quot;#0099ff&quot;&gt;只能选择新增商品时商品类目为蔬菜&lt;/font&gt; 的商品。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/68351747.jpg-w415&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;上架附加商品&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;附加商品和可选蔬菜的区别在于：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;附加商品里的商品和库存对于每个配送日来说都是可选的，而可选蔬菜则是一个配送日对应一份菜单。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/34118186.jpg-w619&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</content>
+    <content type="html"><![CDATA[<h4 id="一、操作路径"><a href="#一、操作路径" class="headerlink" title="一、操作路径"></a>一、操作路径</h4><p>好农场管理后台-商品-会员商品</p><h4 id="二、操作流程"><a href="#二、操作流程" class="headerlink" title="二、操作流程"></a>二、操作流程</h4><ol><li>上架可选蔬菜</li><li>上架附加商品</li></ol><h4 id="三、流程介绍"><a href="#三、流程介绍" class="headerlink" title="三、流程介绍"></a>三、流程介绍</h4><ol><li><p><strong>上架可选蔬菜</strong></p><p>在会员商品下选择”可选蔬菜“，可以通过”上架“或”复制上次菜单“的方式上架可选蔬菜。</p><p><strong>复制上一次菜单：</strong>点击后可以将上一次配送时上架的蔬菜直接复制到当前配送日。</p><blockquote><p>提示：</p><ol><li>在上架蔬菜前应先切换到要执行配送的配送日，如下图选中的是“星期二”。</li><li>限购数量为0时表示不限购。</li></ol></blockquote><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/77544474.jpg-w619" alt="可选蔬菜"></p><blockquote><p>在上架蔬菜的弹出框中，<font color="#0099ff">只能选择新增商品时商品类目为蔬菜</font> 的商品。</p></blockquote><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/68351747.jpg-w415" alt=""></p></li><li><p><strong>上架附加商品</strong></p><p>附加商品和可选蔬菜的区别在于：</p><blockquote><p>附加商品里的商品和库存对于每个配送日来说都是可选的，而可选蔬菜则是一个配送日对应一份菜单。</p></blockquote><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/34118186.jpg-w619" alt=""></p></li></ol>]]></content>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-商品-会员商品&lt;/p&gt;
+      
+      
+        &lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-商品-会员商品&lt;/p&gt;
 &lt;h4 id=&quot;二、操作流程&quot;&gt;&lt;a href=&quot;#二、操作流程&quot; 
+      
     
     </summary>
     
@@ -763,36 +529,15 @@
     <published>2016-01-21T08:17:23.000Z</published>
     <updated>2016-06-15T00:41:37.000Z</updated>
     
-    <content type="html">&lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-商品-商品库&lt;/p&gt;
-&lt;h4 id=&quot;二、操作流程&quot;&gt;&lt;a href=&quot;#二、操作流程&quot; class=&quot;headerlink&quot; title=&quot;二、操作流程&quot;&gt;&lt;/a&gt;二、操作流程&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;设置商品类目&lt;/li&gt;
-&lt;li&gt;设置商品基本信息&lt;/li&gt;
-&lt;li&gt;添加商品详情&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;三、流程介绍&quot;&gt;&lt;a href=&quot;#三、流程介绍&quot; class=&quot;headerlink&quot; title=&quot;三、流程介绍&quot;&gt;&lt;/a&gt;三、流程介绍&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;设置商品类目&lt;/p&gt;
-&lt;p&gt;在商品库中点”新增商品“，进入商品类目选择页，请根据要添加的商品选择适合的分类。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/41302433.jpg-w619&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;设置商品基本信息&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;在设置商品基本信息时，可以对商品进行分组，便于按分组管理商品，查阅：&lt;a href=&quot;http://&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;商品分组功能&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;在新增了会员套餐后，可以对商品&lt;strong&gt;设置套餐价&lt;/strong&gt;，每一个套餐可以对应一种价格。&lt;/li&gt;
-&lt;li&gt;可以给商品设置运费模板，运费模板介绍请查阅：&lt;a href=&quot;http://&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;运费模板功能&lt;/a&gt; ， 运费模板暂时只对零售商品生效。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/10077936.jpg-w619&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;编辑商品详情&lt;/p&gt;
-&lt;p&gt;可以通过编辑框编辑商品的图文介绍信息。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/9868713.jpg-w619&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-</content>
+    <content type="html"><![CDATA[<h4 id="一、操作路径"><a href="#一、操作路径" class="headerlink" title="一、操作路径"></a>一、操作路径</h4><p>好农场管理后台-商品-商品库</p><h4 id="二、操作流程"><a href="#二、操作流程" class="headerlink" title="二、操作流程"></a>二、操作流程</h4><ol><li>设置商品类目</li><li>设置商品基本信息</li><li>添加商品详情</li></ol><h4 id="三、流程介绍"><a href="#三、流程介绍" class="headerlink" title="三、流程介绍"></a>三、流程介绍</h4><ol><li><p>设置商品类目</p><p>在商品库中点”新增商品“，进入商品类目选择页，请根据要添加的商品选择适合的分类。</p><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/41302433.jpg-w619" alt=""></p></li><li><p>设置商品基本信息</p><ul><li>在设置商品基本信息时，可以对商品进行分组，便于按分组管理商品，查阅：<a href="http://" target="_blank" rel="external">商品分组功能</a></li><li>在新增了会员套餐后，可以对商品<strong>设置套餐价</strong>，每一个套餐可以对应一种价格。</li><li>可以给商品设置运费模板，运费模板介绍请查阅：<a href="http://" target="_blank" rel="external">运费模板功能</a> ， 运费模板暂时只对零售商品生效。</li></ul><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/10077936.jpg-w619" alt=""></p></li><li><p>编辑商品详情</p><p>可以通过编辑框编辑商品的图文介绍信息。</p></li></ol><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/9868713.jpg-w619" alt=""></p>]]></content>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-商品-商品库&lt;/p&gt;
+      
+      
+        &lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-商品-商品库&lt;/p&gt;
 &lt;h4 id=&quot;二、操作流程&quot;&gt;&lt;a href=&quot;#二、操作流程&quot; c
+      
     
     </summary>
     
@@ -810,29 +555,15 @@
     <published>2016-01-21T07:53:16.000Z</published>
     <updated>2016-06-15T00:42:21.000Z</updated>
     
-    <content type="html">&lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-农场-收入/提现&lt;/p&gt;
-&lt;h4 id=&quot;二、操作流程&quot;&gt;&lt;a href=&quot;#二、操作流程&quot; class=&quot;headerlink&quot; title=&quot;二、操作流程&quot;&gt;&lt;/a&gt;二、操作流程&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;在后台设置提现银行卡&lt;/li&gt;
-&lt;li&gt;提交提现申请，等待提现处理&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;三、流程说明&quot;&gt;&lt;a href=&quot;#三、流程说明&quot; class=&quot;headerlink&quot; title=&quot;三、流程说明&quot;&gt;&lt;/a&gt;三、流程说明&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;设置提现银行卡&lt;/p&gt;
-&lt;p&gt;点击账户余额旁边的 &amp;quot;提现“ 按钮，如果未设置过银行卡号，则进入设置提现账号。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/42842406.jpg-w619&quot; alt=&quot;提现1&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;输入提现金额，点击”提交”就可以了，目前提现是T+2天处理，5个工作日内到账，节假日顺延。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/56425689.jpg-w619&quot; alt=&quot;提现2&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;当提现状态为“提现成功”时，即表示提现金额已经到账。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/61185533.jpg-w619&quot; alt=&quot;提现3&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</content>
+    <content type="html"><![CDATA[<h4 id="一、操作路径"><a href="#一、操作路径" class="headerlink" title="一、操作路径"></a>一、操作路径</h4><p>好农场管理后台-农场-收入/提现</p><h4 id="二、操作流程"><a href="#二、操作流程" class="headerlink" title="二、操作流程"></a>二、操作流程</h4><ol><li>在后台设置提现银行卡</li><li>提交提现申请，等待提现处理</li></ol><h4 id="三、流程说明"><a href="#三、流程说明" class="headerlink" title="三、流程说明"></a>三、流程说明</h4><ol><li><p>设置提现银行卡</p><p>点击账户余额旁边的 &quot;提现“ 按钮，如果未设置过银行卡号，则进入设置提现账号。</p><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/42842406.jpg-w619" alt="提现1"></p></li><li><p>输入提现金额，点击”提交”就可以了，目前提现是T+2天处理，5个工作日内到账，节假日顺延。</p><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/56425689.jpg-w619" alt="提现2"></p></li><li><p>当提现状态为“提现成功”时，即表示提现金额已经到账。</p><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/61185533.jpg-w619" alt="提现3"></p></li></ol>]]></content>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-农场-收入/提现&lt;/p&gt;
+      
+      
+        &lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-农场-收入/提现&lt;/p&gt;
 &lt;h4 id=&quot;二、操作流程&quot;&gt;&lt;a href=&quot;#二、操作流程&quot;
+      
     
     </summary>
     
@@ -850,16 +581,15 @@
     <published>2016-01-21T07:53:04.000Z</published>
     <updated>2016-06-12T02:26:54.000Z</updated>
     
-    <content type="html">&lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-农场-零售设置&lt;/p&gt;
-&lt;h4 id=&quot;二、功能介绍&quot;&gt;&lt;a href=&quot;#二、功能介绍&quot; class=&quot;headerlink&quot; title=&quot;二、功能介绍&quot;&gt;&lt;/a&gt;二、功能介绍&lt;/h4&gt;&lt;p&gt;起送价：消费者到达设置的金额后才能下单&lt;/p&gt;
-&lt;p&gt;免运费金额：消费者在农场购买的商品达到该金额后可以免运费&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/92130957.jpg-w619&quot; alt=&quot;零售&quot;&gt;&lt;/p&gt;
-</content>
+    <content type="html"><![CDATA[<h4 id="一、操作路径"><a href="#一、操作路径" class="headerlink" title="一、操作路径"></a>一、操作路径</h4><p>好农场管理后台-农场-零售设置</p><h4 id="二、功能介绍"><a href="#二、功能介绍" class="headerlink" title="二、功能介绍"></a>二、功能介绍</h4><p>起送价：消费者到达设置的金额后才能下单</p><p>免运费金额：消费者在农场购买的商品达到该金额后可以免运费</p><p><img src="http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/92130957.jpg-w619" alt="零售"></p>]]></content>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-农场-零售设置&lt;/p&gt;
+      
+      
+        &lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-农场-零售设置&lt;/p&gt;
 &lt;h4 id=&quot;二、功能介绍&quot;&gt;&lt;a href=&quot;#二、功能介绍&quot; 
+      
     
     </summary>
     
@@ -867,50 +597,6 @@
     
     
       <category term="零售" scheme="http://guide.realfarm.cn/tags/%E9%9B%B6%E5%94%AE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何开启会员宅配功能</title>
-    <link href="http://guide.realfarm.cn/how-to-enable-home-delivery/"/>
-    <id>http://guide.realfarm.cn/how-to-enable-home-delivery/</id>
-    <published>2016-01-21T07:52:53.000Z</published>
-    <updated>2016-06-12T01:15:20.000Z</updated>
-    
-    <content type="html">&lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-农场-会员模块&lt;/p&gt;
-&lt;h4 id=&quot;二、操作流程&quot;&gt;&lt;a href=&quot;#二、操作流程&quot; class=&quot;headerlink&quot; title=&quot;二、操作流程&quot;&gt;&lt;/a&gt;二、操作流程&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;开启会员模块&lt;/li&gt;
-&lt;li&gt;设置会员自定义功能&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;三、流程介绍&quot;&gt;&lt;a href=&quot;#三、流程介绍&quot; class=&quot;headerlink&quot; title=&quot;三、流程介绍&quot;&gt;&lt;/a&gt;三、流程介绍&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;开启会员模块&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;在会员模块的右边点击“开启”按钮即可。同理，如果你不想使用会员功能，在这里停用即可。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/81494564.jpg-w619&quot; alt=&quot;开启会员模块&quot;&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;设置会员自定义功能&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;会员等级：可以根据会员累积消费情况给会员设置一个等级标签；&lt;/li&gt;
-&lt;li&gt;账户关联功能：即主账户、子账户功能，适用于多个会员在同一个账户中消费。详情请查阅：(编写中)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;http://7sbr9z.com1.z0.glb.clouddn.com/16-1-21/46912397.jpg-w619&quot; alt=&quot;设置会员自定义功能&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;一、操作路径&quot;&gt;&lt;a href=&quot;#一、操作路径&quot; class=&quot;headerlink&quot; title=&quot;一、操作路径&quot;&gt;&lt;/a&gt;一、操作路径&lt;/h4&gt;&lt;p&gt;好农场管理后台-农场-会员模块&lt;/p&gt;
-&lt;h4 id=&quot;二、操作流程&quot;&gt;&lt;a href=&quot;#二、操作流程&quot; 
-    
-    </summary>
-    
-      <category term="农场设置" scheme="http://guide.realfarm.cn/categories/%E5%86%9C%E5%9C%BA%E8%AE%BE%E7%BD%AE/"/>
-    
-    
-      <category term="会员" scheme="http://guide.realfarm.cn/tags/%E4%BC%9A%E5%91%98/"/>
-    
-      <category term="宅配" scheme="http://guide.realfarm.cn/tags/%E5%AE%85%E9%85%8D/"/>
     
   </entry>
   
